@@ -229,10 +229,8 @@ function getWord() {
     const type = urlParam.get("type")
     if(type === "hiragana") {
         list = {...objHiragana, ...objHiraCombination}
-    } else if( type == "katakana") {
-        list = {...objKatakana, ...objKataCombination}
     } else {
-        window.location.href = "/error.html"
+        list = {...objKatakana, ...objKataCombination}
     }
 
     //get random property
@@ -244,14 +242,29 @@ function getWord() {
     showTargetElement.innerText = keyTarget
 
     //show list
+    var pickList = {}
+    if(type === "hiragana") {
+        if(objHiragana[keyTarget]) {
+            pickList = {...objHiragana}
+        } else {
+            pickList = {...objHiraCombination}
+        }
+    } else {
+        if( objKatakana[keyTarget]) {
+            pickList = {...objKatakana}
+        } else {
+            pickList = {...objKataCombination}
+        }
+    }
     var listElement = "<ul>"
-    const lengthListKey = listKeyTarget.length
+    const pickListKeys = Object.keys(pickList)
+    const lengthListKey = pickListKeys.length
     for (let i = 0; i < lengthListKey; i++) {
-        var count = listKeyTarget.length
+        var count = pickListKeys.length
         const index = Math.floor(Math.random() * count)
-        const key = listKeyTarget[index]
+        const key = pickListKeys[index]
         listElement += `<li onclick="checkAnswer('${keyTarget}', '${list[key]}')">${list[key]}</li>`
-        listKeyTarget.splice(index, 1)
+        pickListKeys.splice(index, 1)
     }
     listElement += "</ul>"
     const listContainerElement = document.getElementById('list')

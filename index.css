@@ -78,8 +78,8 @@ button.trigger {
     position: absolute;
     margin: auto;
     background-color: #fff;
-    width: 300px;
-    height: 300px;
+    min-width: 300px;
+    min-height: 300px;
     z-index: 1;
     display: flex;
     justify-content: center;
@@ -101,7 +101,7 @@ button.trigger {
 }
 .answer {
     margin-top: 40px;
-    font-size: 50px;
+    font-size: 20px;
     font-weight: bold;
 }
 .correct{
