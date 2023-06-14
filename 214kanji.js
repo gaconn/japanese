@@ -32,7 +32,7 @@ async function getWord() {
 function showData(list, arrKey, answerKey) {
     const showTargetElement =  document.getElementById("show-target")
     showTargetElement.innerText = answerKey
-    listElement = "<ul>"
+    listElement = `<button onclick="skip('${answerKey}')" id="btn-skip">Skip</button><ul>`
     for(var i = 0; i< arrKey.length; i++) {
         arrMean = list[arrKey[i]]
         listElement += `<li onclick="checkAnswer('${answerKey}', '${arrKey[i]}')">${arrMean[0].trim()}</li>`
@@ -54,6 +54,22 @@ function getData() {
     return promise
 }
 
+function skip(keyAnswer) {
+    const answerElement = document.getElementById("answer")
+    const triggerElement = document.getElementById("trigger-result")
+    const continueElement = document.getElementById('continue')
+    triggerElement.checked = true
+    resultCount.total++
+    const arrMean = processData[keyAnswer]
+    explain = arrMean[0].trim() + "\n"
+    explain += "Nghĩa là: " + arrMean[1].trim() + "\n"
+    explain += arrMean[2] ? ("Chi tiết: " + arrMean[2].trim()) : ""
+    resultCount.incorrect++
+    answerElement.className = "answer skip"
+    answerElement.innerText = explain
+    continueElement.className = ""
+}
+
 function checkAnswer(keyAnswer, keyPick) {
     const answerElement = document.getElementById("answer")
     const triggerElement = document.getElementById("trigger-result")
@@ -61,15 +77,13 @@ function checkAnswer(keyAnswer, keyPick) {
     triggerElement.checked = true
     resultCount.total++
     if(keyAnswer === keyPick) {
-        console.log(keyAnswer);
-        console.log(keyPick);
         const arrMean = processData[keyAnswer]
-        explain = arrMean[0].trim() + "\n"
+        explain = `<h3 class="meaning">${arrMean[0].trim()}</h3> </br>`
         explain += "Nghĩa là: " + arrMean[1].trim() + "\n"
         explain += arrMean[2] ? ("Chi tiết: " + arrMean[2].trim()) : ""
         resultCount.correct++
         answerElement.className = "answer correct"
-        answerElement.innerText = explain
+        answerElement.innerHTML = explain
         continueElement.className = ""
     } else {
         resultCount.incorrect++
@@ -99,7 +113,24 @@ function generateListConvert(data) {
     }
     return output
 }
+
+function getCurrent() {
+    const queryString = window.location.search
+    const urlParam = new URLSearchParams(queryString)
+    const type = urlParam.get("type")
+    const stroke_number = urlParam.get("stroke") ? urlParam.get("stroke") : "1"
+
+    if (type === "vn-kanji") {
+        document.querySelector("#type > a:nth-child(2)").classList.add("current")
+    } else {
+        document.querySelector("#type > a:nth-child(1)").classList.add("current")
+    }
+
+    document.querySelector(`#stroke a:nth-child(${stroke_number})`).classList.add("current")
+}
+getCurrent()
 const triggerElement = document.getElementById('trigger')
+const skipElement = document.getElementById('skip')
 const continueElement = document.getElementById('continue')
 triggerElement.addEventListener('click', (e) => {getWord()})
 continueElement.addEventListener('click', (e) => {

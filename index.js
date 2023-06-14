@@ -227,10 +227,10 @@ function getWord() {
     const queryString = window.location.search
     const urlParam = new URLSearchParams(queryString)
     const type = urlParam.get("type")
-    if(type === "hiragana") {
-        list = {...objHiragana, ...objHiraCombination}
-    } else {
+    if(type === "katakana") {
         list = {...objKatakana, ...objKataCombination}
+    } else {
+        list = {...objHiragana, ...objHiraCombination}
     }
 
     //get random property
@@ -243,17 +243,17 @@ function getWord() {
 
     //show list
     var pickList = {}
-    if(type === "hiragana") {
-        if(objHiragana[keyTarget]) {
-            pickList = {...objHiragana}
-        } else {
-            pickList = {...objHiraCombination}
-        }
-    } else {
+    if(type === "katakana") {
         if( objKatakana[keyTarget]) {
             pickList = {...objKatakana}
         } else {
             pickList = {...objKataCombination}
+        }
+    } else {
+        if(objHiragana[keyTarget]) {
+            pickList = {...objHiragana}
+        } else {
+            pickList = {...objHiraCombination}
         }
     }
     var listElement = "<ul>"
@@ -298,6 +298,18 @@ function showAnalyse() {
     correctElement.innerText    = "Correct: " + resultCount.correct
     incorrectElement.innerText  = "Incorrect: " + resultCount.incorrect
 }
+function getCurrent() {
+    const queryString = window.location.search
+    const urlParam = new URLSearchParams(queryString)
+    const type = urlParam.get("type")
+
+    if (type === "katakana") {
+        document.querySelector(`#type a:nth-child(2)`).classList.add("current")
+    } else {
+        document.querySelector(`#type a:nth-child(1)`).classList.add("current")
+    }
+}
+getCurrent()
 const triggerElement = document.getElementById('trigger')
 const continueElement = document.getElementById('continue')
 triggerElement.addEventListener('click', (e) => {getWord()})

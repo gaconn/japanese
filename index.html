@@ -8,7 +8,28 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <div class="nav">
+    <div class="menu">
+        <input type="checkbox" name="menu-trigger" id="menu-trigger" title="trigger" hidden>
+        <label for="menu-trigger"><img src="./images/icons/menu.png" alt="" class="menu-icon"></label>
+        <label for="menu-trigger" class="base"></label>
+        <div class="menu-content">
+            <div class="menu-header">
+                <img src="./images/icons/menu.png" alt="" class="menu-icon menu-content-icon">
+                <label for="menu-trigger">
+                    <img src="./images/icons/erase.png" alt="" class="menu-icon menu-content-icon menu-content-icon-exit">
+                </label>
+            </div>
+            <ul class="menu-body">
+                <li class="current">
+                    <a href="" id="alphabet-url">Bảng chữ cái</a>
+                </li>
+                <li>
+                    <a href="" id="214kanji-url">214 Bộ thủ</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="nav" id="type">
         <a href="?type=hiragana">Hiragana</a>
         <a href="?type=katakana">Katakana</a>
     </div>
@@ -38,5 +59,15 @@
         </div>
     </div>
     <script src="index.js"></script>
+    <script>
+        var url = window.location.href
+        var arrUrl = url.split("/")
+        arrUrl.pop()
+        arrUrl.push("index.html")
+        document.getElementById("alphabet-url").href = arrUrl.join("/")
+        arrUrl.pop()
+        arrUrl.push("214kanji.html")
+        document.getElementById("214kanji-url").href = arrUrl.join("/")
+    </script>
 </body>
 </html>

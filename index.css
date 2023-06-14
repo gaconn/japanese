@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     border-bottom: 1px solid #333;
+    flex-wrap: wrap;
 }
 .nav a {
     padding: 10px 20px;
@@ -31,7 +32,14 @@ button.trigger {
     width: 120px;
     height: 30px;
     border-radius: 5px;
-    background-color: beige;
+    background-color: rgb(67, 197, 67);
+    border: none;
+    color: #ddd;
+    font-weight: bold;
+    cursor: pointer;
+}
+button.trigger:hover {
+    background-color: rgb(66, 197, 33);
 }
 #list ul {
     margin: 20px 0;
@@ -39,6 +47,14 @@ button.trigger {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
+    align-self: center;
+}
+#list {
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+    margin: 0 auto;
+    flex-direction: column;
 }
 #list li {
     margin: 10px;
@@ -73,6 +89,7 @@ button.trigger {
     bottom: 0;
     left: 0;
     background-color: rgba(0, 0, 0, 0.2);
+    z-index: 1;
 }
 .box {
     position: absolute;
@@ -80,7 +97,7 @@ button.trigger {
     background-color: #fff;
     min-width: 300px;
     min-height: 300px;
-    z-index: 1;
+    z-index: 2;
     display: flex;
     justify-content: center;
     border-radius: 10px;
@@ -101,7 +118,16 @@ button.trigger {
 }
 .answer {
     margin-top: 40px;
-    font-size: 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px;
+}
+.meaning {
+    text-align: center;
+    font-size: 2rem;
+}
+.skip {
+    color: orange;
     font-weight: bold;
 }
 .correct{
@@ -127,7 +153,7 @@ button.trigger {
 }
 
 #result-total{
-    color: #666;
+    color: green;
     font-size: 2rem;
     font-weight: bold;
     margin: 0 10px;
@@ -143,4 +169,99 @@ button.trigger {
     font-size: 2rem;
     font-weight: bold;
     margin: 0 10px;
+}
+
+#btn-skip {
+    margin-top: 20px;
+    align-self: center;
+    width: 100px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: orange;
+    border: none;
+    color: #666;
+    font-weight: bold;
+}
+#btn-skip:hover {
+    background-color: rgba(255, 166, 0, 0.644);
+    cursor: pointer;
+}
+
+
+/* Menu */
+#menu-trigger:checked ~ .menu-content {
+    display: block;
+}
+.menu .base {
+    display: none;
+}
+#menu-trigger:checked ~  .base {
+    display: block;
+}
+.menu-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 400px;
+    background-color: #fff;
+    z-index: 2;
+    display: none;
+}
+
+.menu-icon {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    padding: 10px;
+    background-color: beige;
+    cursor: pointer;
+}
+.menu-icon:hover {
+    background-color: rgb(231, 231, 174);
+}
+.menu-header {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.menu-content-icon {
+    display: block;
+    position: relative;
+    background-color: #fff;
+}
+
+.menu-content-icon-exit {
+    left: 0;
+}
+
+ul.menu-body {
+    padding: 0;
+    margin: 50px 0 0 0;
+}
+
+.menu-body li {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.menu-body li:hover {
+    background-color: azure;
+    color: #999;
+}
+
+.current {
+    color: orange;
+}
+#type .current,#stroke .current {
+    background-color: rgb(224, 201, 157);
+}
+.menu-body li a {
+    color: inherit;
+    background-color: inherit;
+    text-decoration: none;
 }
