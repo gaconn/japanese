@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="./lib/css/index.css">
     <title>Document</title>
 </head>
 <body>
@@ -26,6 +26,9 @@
                 <li class="current">
                     <a href="" id="214kanji-url">214 Bộ thủ</a>
                 </li>
+                <li>
+                    <a href="" id="practice-kanji-stroke">Tập viết 214 bộ thủ</a>
+                </li>
             </ul>
         </div>
     </div>
@@ -34,23 +37,6 @@
         <a href="?type=vn-kanji&stroke=1">VN -Kanji</a>
     </div>
     <div class="nav" id="stroke">
-        <a href="?type=kanji&stroke=1">1</a>
-        <a href="?type=kanji&stroke=2">2</a>
-        <a href="?type=kanji&stroke=3">3</a>
-        <a href="?type=kanji&stroke=4">4</a>
-        <a href="?type=kanji&stroke=5">5</a>
-        <a href="?type=kanji&stroke=6">6</a>
-        <a href="?type=kanji&stroke=7">7</a>
-        <a href="?type=kanji&stroke=8">8</a>
-        <a href="?type=kanji&stroke=9">9</a>
-        <a href="?type=kanji&stroke=10">10</a>
-        <a href="?type=kanji&stroke=11">11</a>
-        <a href="?type=kanji&stroke=12">12</a>
-        <a href="?type=kanji&stroke=13">13</a>
-        <a href="?type=kanji&stroke=14">14</a>
-        <a href="?type=kanji&stroke=15">15</a>
-        <a href="?type=kanji&stroke=16">16</a>
-        <a href="?type=kanji&stroke=17">17</a>
     </div>
     <div class="container">
         <div class="show">
@@ -78,16 +64,17 @@
         <div for="trigger-result" class="base">
         </div>
     </div>
-    <script src="214kanji.js"></script>
+    <script src="./lib/js/214kanji.js"></script>
     <script>
         var url = window.location.href
         var arrUrl = url.split("/")
         arrUrl.pop()
-        arrUrl.push("index.html")
-        document.getElementById("alphabet-url").href = arrUrl.join("/")
-        arrUrl.pop()
-        arrUrl.push("214kanji.html")
-        document.getElementById("214kanji-url").href = arrUrl.join("/")
+        var indexURL = [...arrUrl, "index.html"]
+        var kanjiStrokeURL = [...arrUrl, "214kanji.html"]
+        var practiceKanjiURL = [...arrUrl,"practice_kanji_stroke.html"]
+        document.getElementById("alphabet-url").href = indexURL.join("/")
+        document.getElementById("214kanji-url").href = kanjiStrokeURL.join("/")
+        document.getElementById("practice-kanji-stroke").href = practiceKanjiURL.join("/")
     </script>
 </body>
 </html>

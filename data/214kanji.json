@@ -195,6 +195,7 @@
     },
     "7_stroke": {
         "見":[" Kiến"," Thấy, xem, nhìn."],
+        "见":[" Kiến (biến thể)"," Thấy, xem, nhìn."],
         "角":[" Giác"," Cái sừng."],
         "言":[" ngôn"," Nói", "(thoại)."],
         "谷":[" Cốc", "Thung lũng, khe suối", "Khe suối chảy thông ra sông."],
@@ -241,7 +242,7 @@
     },
     "10_stroke": {
         "馬":["Mã"," Con ngựa."],
-        "骨":["Cốt"," Xương."],
+        "骫":["Cốt"," Xương."],
         "高":["Cao", "Cao", " Trái lại với thấp là cao."],
         "髟":["Tiêu"," Tóc dài", " Hình chữ trường長và chữ sam彡. Lông dài (tóc dài)."],
         "鬥":["Đấu"," Đánh nhau", " chiến đấu, đấu tranh…"],

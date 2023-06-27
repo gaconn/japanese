@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="stylesheet" href="./lib/css/index.css">
+    <link rel="stylesheet" href="./lib/css/practice_kanji_stroke.css">
+    <title>Document</title>
 </head>
 <body>
+
     <div class="menu">
         <input type="checkbox" name="menu-trigger" id="menu-trigger" title="trigger" hidden>
         <label for="menu-trigger"><img src="./images/icons/menu.png" alt="" class="menu-icon"></label>
@@ -20,49 +22,36 @@
                 </label>
             </div>
             <ul class="menu-body">
-                <li class="current">
+                <li>
                     <a href="" id="alphabet-url">Bảng chữ cái</a>
                 </li>
                 <li>
                     <a href="" id="214kanji-url">214 Bộ thủ</a>
                 </li>
-                
-                <li class="">
+                <li class="current">
                     <a href="" id="practice-kanji-stroke">Tập viết 214 bộ thủ</a>
                 </li>
             </ul>
         </div>
     </div>
     <div class="nav" id="type">
-        <a href="?type=hiragana">Hiragana</a>
-        <a href="?type=katakana">Katakana</a>
+        <a class="current" href="?type=random">Random</a>
     </div>
+    <h3>Viết các từ sau ra giấy</h3>
     <div class="container">
         <div class="show">
             <div class="target" id="show-target">---</div>
-        
-            <button class="trigger" id="trigger">Get word</button>
+            <div id="word-meaning"></div>
             <div>
-                <span id="result-total">Total: 0</span>
-                <span id="result-correct">Correct: 0</span>
-                <span id="result-incorrect">Incorrect: 0</span>
+                <button class="trigger" id="trigger">Xem từ khác</button>
+                <button class="show-answer" id="show-answer">Xem cách viết</button>
             </div>
         </div>
-        <div id="list"></div>
     </div>
-    <input type="checkbox" id="trigger-result" hidden>
-    <div class="panel">
-        <div class="box">
-            <div class="answer correct" id="answer">Correct</div>
-            <div class="control">
-                <label for="trigger-result" class="result-cancel">Cancel</label>
-                <button id="continue">Continue</button>
-            </div>
-        </div>
-        <div for="trigger-result" class="base">
-        </div>
+    <div id="show-writing">
+
     </div>
-    <script src="./lib/js/index.js"></script>
+    <script src="./lib/js/practice_kanji_stroke.js" charset="UTF-8"></script>
     <script>
         var url = window.location.href
         var arrUrl = url.split("/")

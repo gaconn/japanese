@@ -1,0 +1,19 @@
+.show-answer {
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(173, 197, 67);
+    border: none;
+    color: #ddd;
+    font-weight: bold;
+    cursor: pointer;
+}
+#word-meaning {
+    margin: 10px;
+    font-style: italic;
+}
+#show-writing {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
