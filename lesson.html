@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./lib/css/index.css">
+    <link rel="stylesheet" href="./views/css/lesson.css">
+</head>
+<body>
+    <div class="menu" id="menu">
+    </div>
+    <div class="nav" id="type">
+        <a href="?type=hiragana">Hiragana</a>
+        <a href="?type=katakana">Katakana</a>
+    </div>
+    <div id="layout_lesson">
+        <div class="container">
+            <div class="show">
+                <div class="target" id="show-target">---</div>
+                <div id="word-meaning"></div>
+                <button class="trigger" id="trigger">Get word</button>
+                
+                <div>
+                    <span id="result-total">Total: 0</span>
+                    <span id="result-correct">Correct: 0</span>
+                    <span id="result-incorrect">Incorrect: 0</span>
+                </div>
+            </div>
+            <div id="list"></div>
+        </div>
+        <input type="checkbox" id="trigger-result" hidden>
+        <div class="panel">
+            <div class="box">
+                <div class="answer correct" id="answer">Correct</div>
+                <div class="control">
+                    <label for="trigger-result" class="result-cancel">Cancel</label>
+                    <button id="continue">Continue</button>
+                </div>
+            </div>
+            <div for="trigger-result" class="base">
+            </div>
+        </div>
+    </div>
+    <div></div>
+    <script src="./views/js/lessonList.js" type="module"></script>
+    <script src="./views/js/menu.js" id="menu-script"></script>
+</body>
+</html>

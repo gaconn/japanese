@@ -4,26 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./lib/css/index.css">
     <title>Document</title>
+    <link rel="stylesheet" href="../../lib/css/index.css">
 </head>
 <body>
     <div class="menu" id="menu">
     </div>
     <div class="nav" id="type">
-        <a href="?type=kanji-vn&stroke=1">Kanji - VN</a>
-        <a href="?type=vn-kanji&stroke=1">VN -Kanji</a>
-        <a href="?type=random&flow=kanji-vn">Random Kanji-VN</a>
-        <a href="?type=random&flow=vn-kanji">Random VN-Kanji</a>
-    </div>
-    <div class="nav" id="stroke">
+        <a href="?type=hiragana">Hiragana</a>
+        <a href="?type=katakana">Katakana</a>
     </div>
     <div class="container">
         <div class="show">
             <div class="target" id="show-target">---</div>
-            <div id="word-meaning"></div>
+        
             <button class="trigger" id="trigger">Get word</button>
-            
             <div>
                 <span id="result-total">Total: 0</span>
                 <span id="result-correct">Correct: 0</span>
@@ -44,18 +39,7 @@
         <div for="trigger-result" class="base">
         </div>
     </div>
-    <script src="./lib/js/214kanji.js"></script>
-    <script src="./views/js/menu.js" id="menu-script"></script>
-    <script>
-        var url = window.location.href
-        var arrUrl = url.split("/")
-        arrUrl.pop()
-        var indexURL = [...arrUrl, "index.html"]
-        var kanjiStrokeURL = [...arrUrl, "214kanji.html"]
-        var practiceKanjiURL = [...arrUrl,"practice_kanji_stroke.html"]
-        document.getElementById("alphabet-url").href = indexURL.join("/")
-        document.getElementById("214kanji-url").href = kanjiStrokeURL.join("/")
-        document.getElementById("practice-kanji-stroke").href = practiceKanjiURL.join("/")
-    </script>
+    <script src="../../lib/js/vocabulary.js"></script>
+    <script src="../../views/js/menu.js" id="menu-script"></script>
 </body>
 </html>

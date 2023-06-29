@@ -1,0 +1,141 @@
+{
+    "日本": {
+        "type": "noun",
+        "mean_vn": "Nhật Bản",
+        "hiragana": ["にほん"],
+        "katakana": "",
+        "example":""
+    },
+    "中国": {
+        "type": "noun",
+        "mean_vn": "Trung Quốc",
+        "hiragana": ["ちゅうごく"],
+        "katakana": "",
+        "example":""
+    },
+    "韓国": {
+        "type": "noun",
+        "mean_vn": "Hàn Quốc",
+        "hiragana": ["かんこく"],
+        "katakana": "",
+        "example":""
+    },
+    "会社": {
+        "type": "noun",
+        "mean_vn": "Công ty",
+        "hiragana": ["かいしゃ"],
+        "katakana": "",
+        "example":""
+    },
+    "社会": {
+        "type": "noun",
+        "mean_vn": "Xã hội",
+        "hiragana": ["しゃかい"],
+        "katakana": "",
+        "example":""
+    },
+    "銀行": {
+        "type": "noun",
+        "mean_vn": "Ngân hàng",
+        "hiragana": ["ぎんこう"],
+        "katakana": "",
+        "example":["アップレ銀行"]
+    },
+    "研究": {
+        "type": "verb",
+        "mean_vn": "Nghiên cứu",
+        "hiragana": ["けんきゅう"],
+        "katakana": "",
+        "example":""
+    },
+    "人": {
+        "type": "noun",
+        "mean_vn": "Người",
+        "hiragana": ["ひと", "じん"],
+        "katakana": "",
+        "example": {
+            "この人": "Người này",
+            "あの人": "Người kia",
+            "その人": "Người đó",
+            "どの人": "Người nào ?",
+            "会社の人": "Người của công ty",
+            "銀行の人": "Người của ngân hàng",
+            "韓国の人": "Người Hàn Quốc",
+            "中国の人": "Người Trung Quốc",
+            "ベトナムの人": "Người Việt Nam",
+            "アメリカの人": "Người Mỹ",
+            "ドイツの人": "Người Đức",
+            "社会の人": "Người của xã hội"
+        }
+    },
+    "方": {
+        "type": "noun",
+        "mean_vn": "Phương, từ trang trọn của 人",
+        "hiragana": ["かた"],
+        "katakana": "",
+        "example": {
+            "この方": "Vị này",
+            "あの方": "Vị kia",
+            "その方": "Vị đó",
+            "どの方": "Vị nào vậy ?"
+        }
+    },
+    "員": {
+        "type": "noun",
+        "mean_vn": "Viên",
+        "hiragana": ["いん"],
+        "katakana": "",
+        "example": {
+            "社員": "Nhân viên công ty",
+            "銀行員": "Nhân viên ngân hàng"
+        }
+    },
+    "者": {
+        "type": "noun",
+        "mean_vn": "Giả (Người có kiến thức trình độ nào đó)",
+        "hiragana": ["しゃ"],
+        "katakana": "",
+        "example": {
+            "研究者": "Nhà nghiên cứu"
+        }
+    },
+    "学": {
+        "type": "noun",
+        "mean_vn": "Học",
+        "hiragana": ["がく"],
+        "katakana": "",
+        "example": {
+            "学者": "Học giả"
+        }
+    },
+    "医": {
+        "type": "noun",
+        "mean_vn": "Y (Y học)",
+        "hiragana": ["い"],
+        "katakana": "",
+        "example": {
+            "医者": "Bác sĩ"
+        }
+    },
+    "先": {
+        "type": "noun",
+        "mean_vn": "Tiên (trước)",
+        "hiragana": ["せん"],
+        "katakana": "",
+        "example": {
+            "先生": "Thầy giáo"
+
+        }
+    },
+    "生": {
+        "type": "noun",
+        "mean_vn": "Sinh (Sinh sống)",
+        "hiragana": ["せい"],
+        "katakana": "",
+        "example": {
+            "先生": "Thầy giáo",
+            "学生": "Học sinh",
+            "研究生": "Nghiên cứu sinh"
+        }
+    }
+}

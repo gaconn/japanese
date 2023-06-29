@@ -8,30 +8,7 @@
     <link rel="stylesheet" href="./lib/css/index.css">
 </head>
 <body>
-    <div class="menu">
-        <input type="checkbox" name="menu-trigger" id="menu-trigger" title="trigger" hidden>
-        <label for="menu-trigger"><img src="./images/icons/menu.png" alt="" class="menu-icon"></label>
-        <label for="menu-trigger" class="base"></label>
-        <div class="menu-content">
-            <div class="menu-header">
-                <img src="./images/icons/menu.png" alt="" class="menu-icon menu-content-icon">
-                <label for="menu-trigger">
-                    <img src="./images/icons/erase.png" alt="" class="menu-icon menu-content-icon menu-content-icon-exit">
-                </label>
-            </div>
-            <ul class="menu-body">
-                <li class="current">
-                    <a href="" id="alphabet-url">Bảng chữ cái</a>
-                </li>
-                <li>
-                    <a href="" id="214kanji-url">214 Bộ thủ</a>
-                </li>
-                
-                <li class="">
-                    <a href="" id="practice-kanji-stroke">Tập viết 214 bộ thủ</a>
-                </li>
-            </ul>
-        </div>
+    <div class="menu" id="menu">
     </div>
     <div class="nav" id="type">
         <a href="?type=hiragana">Hiragana</a>
@@ -63,16 +40,6 @@
         </div>
     </div>
     <script src="./lib/js/index.js"></script>
-    <script>
-        var url = window.location.href
-        var arrUrl = url.split("/")
-        arrUrl.pop()
-        var indexURL = [...arrUrl, "index.html"]
-        var kanjiStrokeURL = [...arrUrl, "214kanji.html"]
-        var practiceKanjiURL = [...arrUrl,"practice_kanji_stroke.html"]
-        document.getElementById("alphabet-url").href = indexURL.join("/")
-        document.getElementById("214kanji-url").href = kanjiStrokeURL.join("/")
-        document.getElementById("practice-kanji-stroke").href = practiceKanjiURL.join("/")
-    </script>
+    <script src="./views/js/menu.js" id="menu-script"></script>
 </body>
 </html>

@@ -1,0 +1,71 @@
+#layout_lesson {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#layout_lesson > div {
+    min-width: 300px;
+    flex-grow: 1;
+    text-align: center;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+#layout_lesson > div:nth-child(1) {
+    background-color: aquamarine;
+}
+
+#layout_lesson > div:nth-child(2) {
+    background-color: rgb(127, 255, 176);
+}
+
+#layout_lesson > div:nth-child(3) {
+    background-color: rgb(127, 204, 255);
+}
+
+#layout_lesson > div:hover {
+    opacity: 0.7;
+}
+
+#layout_lesson ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#layout_lesson ul li {
+    display: flex;
+    flex-direction: column;
+}
+#layout_lesson ul li > div {
+    display: flex;
+}
+
+.word,.word1,.word2 {
+    margin: 0;
+    padding:0 ;
+}
+.mean {
+    align-self: center;
+}
+.example {
+    font-style: italic;
+    font-size: 0.8rem;
+    border-top: 1px dotted;
+}
+
+#layout_lesson ul li > div > div:nth-child(2) {
+    margin: 10px 20px;
+}
+
+#layout_lesson ul li:nth-child(odd) {
+    background-color: antiquewhite;
+}
+
+#layout_lesson ul li:nth-child(even) {
+    background-color: rgb(245, 240, 233);
+}
+.type {
+    align-self: center;
+}

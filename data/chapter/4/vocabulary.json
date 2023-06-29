@@ -1,0 +1,136 @@
+{
+    "おきます": {
+        "type": "verb",
+        "mean_vn": "Thức dậy",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ねます": {
+        "type": "verb",
+        "mean_vn": "Ngủ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "はたらきます": {
+        "type": "verb",
+        "mean_vn": "Làm việc",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "やすみます": {
+        "type": "verb",
+        "mean_vn": "Nghỉ giải lao",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "べんきょします": {
+        "type": "verb",
+        "mean_vn": "Học",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おわにます": {
+        "type": "verb",
+        "mean_vn": "Kết thúc",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "デパート": {
+        "type": "verb",
+        "mean_vn": "Trung tâm thương mại",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "銀行": {
+        "type": "verb",
+        "mean_vn": "Ngân hàng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ゆうびんきょく": {
+        "type": "verb",
+        "mean_vn": "Bưu điện",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "としょかん": {
+        "type": "verb",
+        "mean_vn": "Thư viện",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "びじゅつかん": {
+        "type": "verb",
+        "mean_vn": "Bảo tàng mĩ thuật",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "いま": {
+        "type": "verb",
+        "mean_vn": "Bây giờ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～じ": {
+        "type": "verb",
+        "mean_vn": "~ giờ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～ふん": {
+        "type": "verb",
+        "mean_vn": "Phút",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "けん": {
+        "type": "verb",
+        "mean_vn": "Rưỡi",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かんじ": {
+        "type": "verb",
+        "mean_vn": "Mấy giờ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "なんぷん": {
+        "type": "verb",
+        "mean_vn": "Mấy phút",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ごぜん": {
+        "type": "verb",
+        "mean_vn": "AM, buổi sáng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ごご": {
+        "type": "verb",
+        "mean_vn": "PM, buổi chiều",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    }
+
+}
