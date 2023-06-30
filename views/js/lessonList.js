@@ -108,8 +108,8 @@ function show(data) {
         }
         listElement += `
         <li>
-            <div>
-                <div>
+            <div class="target-content">
+                <div >
                     <h3 class="word">${listKeys[item]}</h3>
                     ${data[listKeys[item]]["hiragana"] ? `<p class="word1">${data[listKeys[item]]["hiragana"]}</p>` : ""}
                     ${data[listKeys[item]]["katakana"] ? `<p class="word2">${data[listKeys[item]]["katakana"]}</p>` : ""}
@@ -124,12 +124,6 @@ function show(data) {
     listElement += "</ul></div>"
     var layoutLessonElement = document.getElementById("layout_lesson")
     layoutLessonElement.innerHTML = listElement
-
-    document.getElementById("back").addEventListener("click", (e) => {
-        var paramUrl =new URLSearchParams(window.location.search)
-        paramUrl.set("mode", "list") //list/target
-        window.location.search = paramUrl
-    })
 }
 var answerKey =""
 function target(data) {

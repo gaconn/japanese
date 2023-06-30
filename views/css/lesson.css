@@ -132,3 +132,24 @@ div#lesson_vocabulary div:nth-child(odd) {
     text-align: center;
     justify-content: center;
 }
+.target-content {
+    flex-wrap: wrap;
+}
+@media only screen and (max-width: 756px) {
+    h3.word {
+        font-size: 1.2rem;
+        max-width: 200px;
+    }
+    .word1,.word2 {
+        font-size: 1rem;
+    }
+    .type {
+        font-size: 0.7rem;
+    }
+    .mean {
+        font-size: 1rem;
+    }
+    #show-target {
+        font-size: 2rem;
+    }
+}
