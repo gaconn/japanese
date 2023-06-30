@@ -1,0 +1,234 @@
+{
+    "わたし": {
+        "type": "noun",
+        "mean_vn": "Tôi",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "わたしたち": {
+        "type": "noun",
+        "mean_vn": "Chúng tôi",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あなた": {
+        "type": "noun",
+        "mean_vn": "Anh chị cô bác",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あのひと": {
+        "type": "noun",
+        "mean_vn": "Người kia",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あのかた": {
+        "type": "noun",
+        "mean_vn": "Vị kia",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "みなさん": {
+        "type": "noun",
+        "mean_vn": "Các bạn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～さん": {
+        "type": "noun",
+        "mean_vn": "Bạn, Anh, Chị",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～ちゃん": {
+        "type": "noun",
+        "mean_vn": "Bé gái",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～くん": {
+        "type": "noun",
+        "mean_vn": "Bé trai",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～じん": {
+        "type": "noun",
+        "mean_vn": "Người nước ~",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "せんせい": {
+        "type": "noun",
+        "mean_vn": "Thầy, cô",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "きょし": {
+        "type": "noun",
+        "mean_vn": "Giáo viên",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "がくせい": {
+        "type": "noun",
+        "mean_vn": "Học sinh",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かいしゃいん": {
+        "type": "noun",
+        "mean_vn": "Nhân viên công ty",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "しゃいん": {
+        "type": "noun",
+        "mean_vn": "Công ty",
+        "hiragana": null,
+        "katakana": null,
+        "example":["IMCのしゃいん"]
+    },
+    "ぎんこういん": {
+        "type": "noun",
+        "mean_vn": "Nhân viên ngân hàng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "いしゃ": {
+        "type": "noun",
+        "mean_vn": "Bác sĩ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "けんきゅしゃ": {
+        "type": "noun",
+        "mean_vn": "Nhân viên nghiên cứu",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "エンジニア": {
+        "type": "noun",
+        "mean_vn": "Kỹ sư",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "だいがく": {
+        "type": "noun",
+        "mean_vn": "Trường đại học",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "びおいん": {
+        "type": "noun",
+        "mean_vn": "Bệnh viện",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "でんき": {
+        "type": "noun",
+        "mean_vn": "Công ty điện máy",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "だれ？": {
+        "type": "question",
+        "mean_vn": "Ai?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どなた": {
+        "type": "question",
+        "mean_vn": "Ai? (Trang trọng)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～さい": {
+        "type": "noun",
+        "mean_vn": "~ Tuổi",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "なんさい": {
+        "type": "question",
+        "mean_vn": "Bao nhiên tuổi?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おいくつ": {
+        "type": "question",
+        "mean_vn": "Bao nhiên tuổi? (Trang trọng)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "はい": {
+        "type": "answer",
+        "mean_vn": "Vâng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "いいえ": {
+        "type": "answer",
+        "mean_vn": "Không phải",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "しつれですか、おなまえは？": {
+        "type": "question",
+        "mean_vn": "Xin cho hỏi, bạn tên là gì vậy?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "はじめまして": {
+        "type": "answer",
+        "mean_vn": "Chào bạn, lần đầu được biết bạn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どうぞよろしくおねがいします": {
+        "type": "answer",
+        "mean_vn": "Rất hân hạnh được làm quen với bạn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～からきました": {
+        "type": "answer",
+        "mean_vn": "Tôi đến từ ~",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    }
+
+}

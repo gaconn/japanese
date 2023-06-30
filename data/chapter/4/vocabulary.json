@@ -42,91 +42,91 @@
         "example":""
     },
     "デパート": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Trung tâm thương mại",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "銀行": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Ngân hàng",
-        "hiragana": null,
+        "hiragana": "ぎんこう",
         "katakana": null,
         "example":""
     },
     "ゆうびんきょく": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Bưu điện",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "としょかん": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Thư viện",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "びじゅつかん": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Bảo tàng mĩ thuật",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "いま": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Bây giờ",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "～じ": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "~ giờ",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "～ふん": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Phút",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "けん": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Rưỡi",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
-    "かんじ": {
-        "type": "verb",
+    "なんじ": {
+        "type": "noun",
         "mean_vn": "Mấy giờ",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "なんぷん": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "Mấy phút",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "ごぜん": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "AM, buổi sáng",
         "hiragana": null,
         "katakana": null,
         "example":""
     },
     "ごご": {
-        "type": "verb",
+        "type": "noun",
         "mean_vn": "PM, buổi chiều",
         "hiragana": null,
         "katakana": null,

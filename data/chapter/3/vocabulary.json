@@ -1,0 +1,331 @@
+{
+    "ここ": {
+        "type": "noun",
+        "mean_vn": "Chỗ này, nơi này",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "そこ": {
+        "type": "answer",
+        "mean_vn": "Chỗ đó, nơi đó",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あそこ": {
+        "type": "answer",
+        "mean_vn": "Chỗ kia, nơi kia",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どこ？": {
+        "type": "answer",
+        "mean_vn": "Chỗ nào, nơi nào, ở đâu?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "こちら": {
+        "type": "answer",
+        "mean_vn": "Hướng này, phía này, bên này",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "そちら": {
+        "type": "answer",
+        "mean_vn": "Hướng đó, phía đó, bên đó",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あちら": {
+        "type": "answer",
+        "mean_vn": "Hướng kia, phía kia, bên kia",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どちら？": {
+        "type": "answer",
+        "mean_vn": "Hướng nào, phía nào, bên nào?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "きょうしつ": {
+        "type": "answer",
+        "mean_vn": "Phòng học",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "しょくど": {
+        "type": "answer",
+        "mean_vn": "Căn tin, nhà ăn, phòng ăn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "じむしょ": {
+        "type": "answer",
+        "mean_vn": "Khu văn phòng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かぎしつ": {
+        "type": "answer",
+        "mean_vn": "Phòng họp",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "うけつけ": {
+        "type": "answer",
+        "mean_vn": "Phòng, quầy, bàn tiếp tân",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ロビー": {
+        "type": "answer",
+        "mean_vn": "Sảnh",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ヘヤ": {
+        "type": "answer",
+        "mean_vn": "Căn phòng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "といれ": {
+        "type": "answer",
+        "mean_vn": "Nhà vệ sinh",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おてあらい": {
+        "type": "answer",
+        "mean_vn": "Nhà vệ sinh (Trang trọng)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かいだん": {
+        "type": "answer",
+        "mean_vn": "Cầu thang bộ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "エレベーター": {
+        "type": "answer",
+        "mean_vn": "Thang máy",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "エスカレーター": {
+        "type": "answer",
+        "mean_vn": "Thang cuốn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "くに": {
+        "type": "answer",
+        "mean_vn": "Đất nước",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おくに": {
+        "type": "answer",
+        "mean_vn": "Nước (Của bạn)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かいしゃ": {
+        "type": "answer",
+        "mean_vn": "Công ty",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "うち": {
+        "type": "answer",
+        "mean_vn": "Căn nhà",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "でんわ": {
+        "type": "answer",
+        "mean_vn": "Điện thoại",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "くつ": {
+        "type": "answer",
+        "mean_vn": "Đôi giày",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ネクタイ": {
+        "type": "answer",
+        "mean_vn": "Cà vạt",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ワイン": {
+        "type": "answer",
+        "mean_vn": "Rượu vang",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "たばこ": {
+        "type": "answer",
+        "mean_vn": "Thuốc lá",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "うりば": {
+        "type": "answer",
+        "mean_vn": "Quầy hàng, gian hàng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ちか": {
+        "type": "answer",
+        "mean_vn": "Tầng hầm",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かい": {
+        "type": "answer",
+        "mean_vn": "Tầng ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "がい": {
+        "type": "answer",
+        "mean_vn": "Tầng (3)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "なんかい": {
+        "type": "answer",
+        "mean_vn": "Tầng mấy?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "えん": {
+        "type": "answer",
+        "mean_vn": "Yên",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "いくら": {
+        "type": "answer",
+        "mean_vn": "Bao nhiêu tiền?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～ひゃく": {
+        "type": "answer",
+        "mean_vn": "~Trăm",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おくしょう": {
+        "type": "answer",
+        "mean_vn": "Sân thượng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "デパート": {
+        "type": "answer",
+        "mean_vn": "Căn hộ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～せん": {
+        "type": "answer",
+        "mean_vn": "~ Ngàn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～まん": {
+        "type": "answer",
+        "mean_vn": "~ Vạn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "すみません": {
+        "type": "answer",
+        "mean_vn": "Xin cho hỏi một chút",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～でございます": {
+        "type": "answer",
+        "mean_vn": "Các nói trang trọng của です",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～みせてきださい": {
+        "type": "answer",
+        "mean_vn": "Vui lòng cho tôi xem ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "じゃ、～": {
+        "type": "answer",
+        "mean_vn": "Vậy, vậy thì...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ください": {
+        "type": "answer",
+        "mean_vn": "Bán cho ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "コンピューターしつ": {
+        "type": "answer",
+        "mean_vn": "Phòng máy tính",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    }
+}

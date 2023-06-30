@@ -1,0 +1,415 @@
+{
+    "これ": {
+        "type": "noun",
+        "mean_vn": "Cái này, đây là",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "それ": {
+        "type": "noun",
+        "mean_vn": "Cái đó, đó là",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あれ": {
+        "type": "noun",
+        "mean_vn": "Cái kia, kia là",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "この": {
+        "type": "noun",
+        "mean_vn": "Này",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "その": {
+        "type": "Đó",
+        "mean_vn": "Cái này, đây là",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あの": {
+        "type": "noun",
+        "mean_vn": "Kia",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ほん": {
+        "type": "noun",
+        "mean_vn": "Cuốn sách",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "じしょ": {
+        "type": "noun",
+        "mean_vn": "Cuốn từ điển",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ざっし": {
+        "type": "noun",
+        "mean_vn": "Tạp chí",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "しんぶん": {
+        "type": "noun",
+        "mean_vn": "Tờ báo",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ノート": {
+        "type": "noun",
+        "mean_vn": "Cuốn tập",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "てちょう": {
+        "type": "noun",
+        "mean_vn": "Cuốn sổ tay",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "めいし": {
+        "type": "noun",
+        "mean_vn": "Danh thiếp",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "カード": {
+        "type": "noun",
+        "mean_vn": "Cái thẻ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "テレホンカード": {
+        "type": "noun",
+        "mean_vn": "Thẻ gọi điện thoại",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "えんぴつ": {
+        "type": "noun",
+        "mean_vn": "Cây bút chì",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ボールペン": {
+        "type": "noun",
+        "mean_vn": "Cây bút bi",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "シャープペンシル": {
+        "type": "noun",
+        "mean_vn": "Bút chì kim",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かぎ": {
+        "type": "noun",
+        "mean_vn": "Chìa khóa",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "とけい": {
+        "type": "noun",
+        "mean_vn": "Đồng hồ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かさ": {
+        "type": "noun",
+        "mean_vn": "Cái ô",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かばん": {
+        "type": "noun",
+        "mean_vn": "Cái cặp",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "カセトテープ": {
+        "type": "noun",
+        "mean_vn": "Băng cát-sét",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "テープレコーダー": {
+        "type": "noun",
+        "mean_vn": "Máy hay băng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "テレビ": {
+        "type": "noun",
+        "mean_vn": "Cái TV",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ラジオ": {
+        "type": "noun",
+        "mean_vn": "Radio",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "カメラ": {
+        "type": "noun",
+        "mean_vn": "Camera",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "コンピューター": {
+        "type": "noun",
+        "mean_vn": "Máy tính",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "じどうしゃ": {
+        "type": "noun",
+        "mean_vn": "Xe hơi",
+        "hiragana": ["くるま"],
+        "katakana": ["カー"],
+        "example":""
+    },
+    "つくえ": {
+        "type": "noun",
+        "mean_vn": "Cái bàn học",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "いす": {
+        "type": "noun",
+        "mean_vn": "Cái ghế",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "チョコレート": {
+        "type": "noun",
+        "mean_vn": "Sô-cô-la",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "コーヒー": {
+        "type": "noun",
+        "mean_vn": "Cà phê",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "えいご": {
+        "type": "noun",
+        "mean_vn": "Tiếng Anh",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "にほんご": {
+        "type": "noun",
+        "mean_vn": "Tiếng Nhật",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～ご": {
+        "type": "noun",
+        "mean_vn": "Tiếng ~",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "なん": {
+        "type": "question",
+        "mean_vn": "Cái gì?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "そう": {
+        "type": "question",
+        "mean_vn": "Như vậy?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ちかいます": {
+        "type": "answer",
+        "mean_vn": "Không đúng, Không phải",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "そうでつか": {
+        "type": "question",
+        "mean_vn": "Thế à?",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あのう": {
+        "type": "answer",
+        "mean_vn": "Dạ ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ほんのきもちです": {
+        "type": "answer",
+        "mean_vn": "Đây là một chút lòng thành",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どうぞ": {
+        "type": "answer",
+        "mean_vn": "Xin tặng bạn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どうも": {
+        "type": "answer",
+        "mean_vn": "Xin cảm ơn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どうも、ありがとうございます": {
+        "type": "answer",
+        "mean_vn": "Xin cảm ơn",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "これからおせわになります": {
+        "type": "answer",
+        "mean_vn": "Từ nay về sau mong anh giúp đỡ cho",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "こちらこそよろしく": {
+        "type": "answer",
+        "mean_vn": "Chính tôi mới cần anh giúp đỡ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "スーツケース": {
+        "type": "noun",
+        "mean_vn": "vali",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "スプーン": {
+        "type": "noun",
+        "mean_vn": "cái muỗm",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "シーディー": {
+        "type": "noun",
+        "mean_vn": "CD",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "みず": {
+        "type": "noun",
+        "mean_vn": "Mước lã",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おちゃ": {
+        "type": "noun",
+        "mean_vn": "Trà",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "こうちゃ": {
+        "type": "noun",
+        "mean_vn": "Hồng trà",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "きゅうにゅう": {
+        "type": "noun",
+        "mean_vn": "Sữa",
+        "hiragana": null,
+        "katakana": "ミルク",
+        "example":""
+    },
+    "ジュース": {
+        "type": "noun",
+        "mean_vn": "Nước ép",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おさけ": {
+        "type": "noun",
+        "mean_vn": "Rượu sake",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ビール": {
+        "type": "noun",
+        "mean_vn": "Bia ",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ワイン": {
+        "type": "noun",
+        "mean_vn": "Rượu vang, rượu nho",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ウイスキー": {
+        "type": "noun",
+        "mean_vn": "Rượu whisky",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    }
+}
