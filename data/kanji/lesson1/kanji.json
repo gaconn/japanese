@@ -137,5 +137,54 @@
             "学生": "Học sinh",
             "研究生": "Nghiên cứu sinh"
         }
+    },
+    "大": {
+        "type": "noun",
+        "mean_vn": "Đại",
+        "hiragana": ["だい"],
+        "katakana": "",
+        "example": {
+            "大学": "Đại học",
+            "ふじ大学": "Đại học Phú Sĩ",
+            "大学せい": "Sinh viên đại học",
+            "さくら大学": "Đại học sakura"
+        }
+    },
+    "教": {
+        "type": "noun",
+        "mean_vn": "Giáo",
+        "hiragana": ["きょう"],
+        "katakana": "",
+        "example": {
+            "教員": "Giáo viên"
+        }
+    },
+    "師": {
+        "type": "noun",
+        "mean_vn": "Sư",
+        "hiragana": ["し"],
+        "katakana": "",
+        "example": {
+            "教師": "Giáo sư"
+        }
+    },
+    "歳": {
+        "type": "noun",
+        "mean_vn": "Tuổi",
+        "hiragana": ["さい"],
+        "katakana": "",
+        "example": {
+            "はたち": "20 tuổi",
+            "に十歳": "20 tuổi"
+        }
+    },
+    "何": {
+        "type": "noun",
+        "mean_vn": "hà (cái gì, mấy, bao nhiêu)",
+        "hiragana": ["なん"],
+        "katakana": "",
+        "example": {
+            "何歳": "Bao nhiêu tuổi"
+        }
     }
 }

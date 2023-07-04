@@ -100,11 +100,14 @@ function menuHandler() {
 function show(data) {
     var listElement = `<div id="list-show"><ul>`
     var listKeys = Object.keys(data)
-    console.log(listKeys);
     for(let item =0 ; item < listKeys.length; item++) {
         var example = ""
-        if(Array.isArray(data[listKeys[item]]["example"])) {
-            example = data[listKeys[item]]["example"].join("</br>")
+        if(typeof (data[listKeys[item]]["example"]) === "object" && !Array.isArray(data[listKeys[item]]["example"])&& data[listKeys[item]]["example"] !== null) {
+            var listExampleKey = Object.keys(data[listKeys[item]]["example"])
+            for(let i = 0 ; i< listExampleKey.length; i++) {
+                console.log(data[listKeys[item]]["example"][listExampleKey[i]]);
+                example += `${listExampleKey[i]}: ${data[listKeys[item]]["example"][listExampleKey[i]]} </br>`
+            }
         }
         listElement += `
         <li>
@@ -117,7 +120,7 @@ function show(data) {
                 <div class="type">(${data[listKeys[item]]["type"]})</div>
                 <div class="mean">${data[listKeys[item]]["mean_vn"]}</div>
             </div>
-            <div class="example">${example}</div>
+            <div class="example">Ví dụ: </br>${example}</div>
         </li>
         `
     }

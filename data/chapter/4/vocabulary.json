@@ -131,6 +131,167 @@
         "hiragana": null,
         "katakana": null,
         "example":""
+    },
+    "あさ": {
+        "type": "noun",
+        "mean_vn": "Buổi sáng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ひる": {
+        "type": "noun",
+        "mean_vn": "Buổi trưa",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ばん": {
+        "type": "noun",
+        "mean_vn": "Buổi tối",
+        "hiragana": ["よる"],
+        "katakana": null,
+        "example":""
+    },
+    "おととい": {
+        "type": "noun",
+        "mean_vn": "Ngày hôm kia",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "きのう": {
+        "type": "noun",
+        "mean_vn": "Ngày hôm qua",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "きょう": {
+        "type": "noun",
+        "mean_vn": "Ngày hôm nay",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あした": {
+        "type": "noun",
+        "mean_vn": "Ngày mai",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "あさって": {
+        "type": "noun",
+        "mean_vn": "Ngày mốt",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "けさ": {
+        "type": "noun",
+        "mean_vn": "Sáng nay",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "こんばん": {
+        "type": "noun",
+        "mean_vn": "Tối nay",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "やすみ": {
+        "type": "noun",
+        "mean_vn": "Sự nghỉ ngơi",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ひるやすみ": {
+        "type": "noun",
+        "mean_vn": "Sự nghỉ trưa",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "まいあさ": {
+        "type": "noun",
+        "mean_vn": "Mỗi sáng",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "まいばん": {
+        "type": "noun",
+        "mean_vn": "Mỗi tối",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "まいにち": {
+        "type": "noun",
+        "mean_vn": "Mỗi ngày",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "げつよび": {
+        "type": "noun",
+        "mean_vn": "Thứ 2",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かよび": {
+        "type": "noun",
+        "mean_vn": "Thứ 3",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "すいようび": {
+        "type": "noun",
+        "mean_vn": "Thứ 4",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "もくよび": {
+        "type": "noun",
+        "mean_vn": "Thứ 5",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "きにょうび": {
+        "type": "noun",
+        "mean_vn": "Thứ 6",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どようび": {
+        "type": "noun",
+        "mean_vn": "Thứ 7",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "にちようび": {
+        "type": "noun",
+        "mean_vn": "Chủ nhật",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "なにょび": {
+        "type": "noun",
+        "mean_vn": "Thứ mấy",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
     }
 
 }

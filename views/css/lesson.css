@@ -55,7 +55,7 @@ div#lesson_vocabulary div:nth-child(odd) {
 }
 .example {
     font-style: italic;
-    font-size: 0.8rem;
+    font-size: 1rem;
     border-top: 1px dotted;
 }
 
