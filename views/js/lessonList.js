@@ -217,16 +217,25 @@ function checkAnswer(e) {
     var choice = e.target.getAttribute("target-value")
     
     if (choice != answerKey) {
+        alertSound(false)
         setPoint(false)
         showAlert()
     } else {
+        alertSound(true)
         setPoint(true)
         showAnswer(answerKey, Data[answerKey])
     }
 }
 
-
+function alertSound(isCorrect) {
+    if (isCorrect) {
+        document.getElementById("correct-sound").play()
+    } else {
+        document.getElementById("incorrect-sound").play()
+    }
+}
 function skip() {
+    alertSound(false)
     showAnswer(answerKey, Data[answerKey])
 }
 
