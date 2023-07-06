@@ -186,5 +186,60 @@
         "example": {
             "何歳": "Bao nhiêu tuổi"
         }
+    },
+    "病": {
+        "type": "noun",
+        "mean_vn": "Bịnh/Bệnh",
+        "hiragana": ["びょう"],
+        "katakana": "",
+        "example": ""
+    },
+    "院": {
+        "type": "noun",
+        "mean_vn": "Viện (Tòa nhà)",
+        "hiragana": ["いん"],
+        "katakana": "",
+        "example": ""
+    },
+    "病院": {
+        "type": "noun",
+        "mean_vn": "Bệnh viện",
+        "hiragana": ["びょういん"],
+        "katakana": "",
+        "example": {
+            "こうべ病院":"Bệnh viện kobe"
+        }
+    },
+    "電": {
+        "type": "noun",
+        "mean_vn": "Điện",
+        "hiragana": ["てん"],
+        "katakana": "",
+        "example": ""
+    },
+    "気": {
+        "type": "noun",
+        "mean_vn": "Khí",
+        "hiragana": ["き"],
+        "katakana": "",
+        "example": ""
+    },
+    "電気": {
+        "type": "noun",
+        "mean_vn": "Điện khí",
+        "hiragana": ["でんき"],
+        "katakana": "",
+        "example": {
+            "パワー電気": "Điện máy power"
+        }
+    },
+    "君": {
+        "type": "noun",
+        "mean_vn": "Vua/Cách xung hô ngôi thứ 2",
+        "hiragana": ["くん"],
+        "katakana": "",
+        "example": {
+            "Quân 君": "Bé Quân"
+        }
     }
 }

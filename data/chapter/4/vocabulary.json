@@ -292,6 +292,96 @@
         "hiragana": null,
         "katakana": null,
         "example":""
+    },
+    "ばんごう": {
+        "type": "noun",
+        "mean_vn": "Số hiệu",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "でんわばんごう": {
+        "type": "noun",
+        "mean_vn": "Số điện thoại",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "なんばん": {
+        "type": "noun",
+        "mean_vn": "Số mấy",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～から": {
+        "type": "noun",
+        "mean_vn": "Từ ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～まで": {
+        "type": "noun",
+        "mean_vn": "Đến ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "～と": {
+        "type": "noun",
+        "mean_vn": "và ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "そちら": {
+        "type": "noun",
+        "mean_vn": "Hướng đó, bên đó, nơi đó (Chỉ đầu dây bên kia khi nói chuyện điện thoại)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "たいへんですね": {
+        "type": "noun",
+        "mean_vn": "Bạn vất vả quá",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "ええと": {
+        "type": "noun",
+        "mean_vn": "À ...",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おねがいします": {
+        "type": "noun",
+        "mean_vn": "Làm ơn xin giúp đỡ (Nhờ vả, yêu cầu giúp đỡ)",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "かしこまりました": {
+        "type": "noun",
+        "mean_vn": "Xin tuân lệnh",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "おといあわせのばんごう": {
+        "type": "noun",
+        "mean_vn": "Số điện thoại giao dịch",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
+    },
+    "どうもありがとございました": {
+        "type": "noun",
+        "mean_vn": "Cảm ơn cho cuộc giao dịch",
+        "hiragana": null,
+        "katakana": null,
+        "example":""
     }
-
 }
