@@ -4,6 +4,7 @@
         "mean_vn": "Cái này, đây là",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "それ": {
@@ -11,6 +12,7 @@
         "mean_vn": "Cái đó, đó là",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "あれ": {
@@ -18,6 +20,7 @@
         "mean_vn": "Cái kia, kia là",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "この": {
@@ -25,6 +28,7 @@
         "mean_vn": "Này",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "その": {
@@ -32,6 +36,7 @@
         "mean_vn": "Cái này, đây là",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "あの": {
@@ -39,6 +44,7 @@
         "mean_vn": "Kia",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ほん": {
@@ -46,6 +52,7 @@
         "mean_vn": "Cuốn sách",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "じしょ": {
@@ -53,6 +60,7 @@
         "mean_vn": "Cuốn từ điển",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ざっし": {
@@ -60,6 +68,7 @@
         "mean_vn": "Tạp chí",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "しんぶん": {
@@ -67,6 +76,7 @@
         "mean_vn": "Tờ báo",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ノート": {
@@ -74,6 +84,7 @@
         "mean_vn": "Cuốn tập",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "てちょう": {
@@ -81,6 +92,7 @@
         "mean_vn": "Cuốn sổ tay",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "めいし": {
@@ -88,6 +100,7 @@
         "mean_vn": "Danh thiếp",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "カード": {
@@ -95,6 +108,7 @@
         "mean_vn": "Cái thẻ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "テレホンカード": {
@@ -102,6 +116,7 @@
         "mean_vn": "Thẻ gọi điện thoại",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "えんぴつ": {
@@ -109,6 +124,7 @@
         "mean_vn": "Cây bút chì",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ボールペン": {
@@ -116,6 +132,7 @@
         "mean_vn": "Cây bút bi",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "シャープペンシル": {
@@ -123,6 +140,7 @@
         "mean_vn": "Bút chì kim",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "かぎ": {
@@ -130,6 +148,7 @@
         "mean_vn": "Chìa khóa",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "とけい": {
@@ -137,6 +156,7 @@
         "mean_vn": "Đồng hồ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "かさ": {
@@ -144,6 +164,7 @@
         "mean_vn": "Cái ô",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "かばん": {
@@ -151,6 +172,7 @@
         "mean_vn": "Cái cặp",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "カセトテープ": {
@@ -158,6 +180,7 @@
         "mean_vn": "Băng cát-sét",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "テープレコーダー": {
@@ -165,6 +188,7 @@
         "mean_vn": "Máy hay băng",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "テレビ": {
@@ -172,6 +196,7 @@
         "mean_vn": "Cái TV",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ラジオ": {
@@ -179,6 +204,7 @@
         "mean_vn": "Radio",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "カメラ": {
@@ -186,6 +212,7 @@
         "mean_vn": "Camera",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "コンピューター": {
@@ -193,6 +220,7 @@
         "mean_vn": "Máy tính",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "じどうしゃ": {
@@ -200,6 +228,7 @@
         "mean_vn": "Xe hơi",
         "hiragana": ["くるま"],
         "katakana": ["カー"],
+        "kanji": null,
         "example":""
     },
     "つくえ": {
@@ -207,6 +236,7 @@
         "mean_vn": "Cái bàn học",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "いす": {
@@ -214,6 +244,7 @@
         "mean_vn": "Cái ghế",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "チョコレート": {
@@ -221,6 +252,7 @@
         "mean_vn": "Sô-cô-la",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "コーヒー": {
@@ -228,6 +260,7 @@
         "mean_vn": "Cà phê",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "えいご": {
@@ -235,6 +268,7 @@
         "mean_vn": "Tiếng Anh",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "にほんご": {
@@ -242,6 +276,7 @@
         "mean_vn": "Tiếng Nhật",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "～ご": {
@@ -249,6 +284,7 @@
         "mean_vn": "Tiếng ~",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "なん": {
@@ -256,6 +292,7 @@
         "mean_vn": "Cái gì?",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "そう": {
@@ -263,6 +300,7 @@
         "mean_vn": "Như vậy?",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ちかいます": {
@@ -270,6 +308,7 @@
         "mean_vn": "Không đúng, Không phải",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "そうでつか": {
@@ -277,6 +316,7 @@
         "mean_vn": "Thế à?",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "あのう": {
@@ -284,6 +324,7 @@
         "mean_vn": "Dạ ...",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ほんのきもちです": {
@@ -291,6 +332,7 @@
         "mean_vn": "Đây là một chút lòng thành",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "どうぞ": {
@@ -298,6 +340,7 @@
         "mean_vn": "Xin tặng bạn",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "どうも": {
@@ -305,6 +348,7 @@
         "mean_vn": "Xin cảm ơn",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "どうも、ありがとうございます": {
@@ -312,6 +356,7 @@
         "mean_vn": "Xin cảm ơn",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "これからおせわになります": {
@@ -319,6 +364,7 @@
         "mean_vn": "Từ nay về sau mong anh giúp đỡ cho",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "こちらこそよろしく": {
@@ -326,6 +372,7 @@
         "mean_vn": "Chính tôi mới cần anh giúp đỡ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "スーツケース": {
@@ -333,6 +380,7 @@
         "mean_vn": "vali",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "スプーン": {
@@ -340,6 +388,7 @@
         "mean_vn": "cái muỗm",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "シーディー": {
@@ -347,6 +396,7 @@
         "mean_vn": "CD",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "みず": {
@@ -354,6 +404,7 @@
         "mean_vn": "Mước lã",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "おちゃ": {
@@ -361,6 +412,7 @@
         "mean_vn": "Trà",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "こうちゃ": {
@@ -368,6 +420,7 @@
         "mean_vn": "Hồng trà",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "きゅうにゅう": {
@@ -375,6 +428,7 @@
         "mean_vn": "Sữa",
         "hiragana": null,
         "katakana": "ミルク",
+        "kanji": null,
         "example":""
     },
     "ジュース": {
@@ -382,6 +436,7 @@
         "mean_vn": "Nước ép",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "おさけ": {
@@ -389,6 +444,7 @@
         "mean_vn": "Rượu sake",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ビール": {
@@ -396,6 +452,7 @@
         "mean_vn": "Bia ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ワイン": {
@@ -403,6 +460,7 @@
         "mean_vn": "Rượu vang, rượu nho",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ウイスキー": {
@@ -410,6 +468,7 @@
         "mean_vn": "Rượu whisky",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     }
 }

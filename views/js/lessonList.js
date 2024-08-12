@@ -1,10 +1,14 @@
 import {InitData} from "../../lib/js/vocabulary.js"
+
+const TRANSLATE_TYPE_HIRAGANA_VN = 1
+const TRANSLATE_TYPE_VN_HIRAGANA = 2
 const list = `
 <div id="lesson_vocabulary">
     <div class="lesson_vocabulary_item" id="vocabulary_1">Từ vựng bài 1</div>
     <div class="lesson_vocabulary_item" id="vocabulary_2">Từ vựng bài 2</div>
     <div class="lesson_vocabulary_item" id="vocabulary_3">Từ vựng bài 3</div>
     <div class="lesson_vocabulary_item" id="vocabulary_4">Từ vựng bài 4</div>
+    <div class="lesson_vocabulary_item" id="vocabulary_12">Từ vựng bài 12</div>
 </div>
 <div id="lesson_kanji_vocabulary">
     <div class="lesson_kanji_vocabulary_item" id="vocabulary-kanji_1">Từ vựng kanji bài 1</div>
@@ -45,7 +49,10 @@ async function init() {
         })
     } else if (mode === "target") {
         Data = await InitData(type, lessonNumber)
-        target(Data)
+        target(Data, TRANSLATE_TYPE_HIRAGANA_VN)
+    } else if (mode === "target_vn_hiragana") {
+        Data = await InitData(type, lessonNumber)
+        target(Data, TRANSLATE_TYPE_VN_HIRAGANA)
     } else if (mode === "show") {
         Data = await InitData(type, lessonNumber)
         show(Data)
@@ -91,6 +98,16 @@ function menuHandler() {
         var paramUrl =new URLSearchParams(window.location.search)
         var type = paramUrl.get("type") //vocabulary/grammar
         var lessonNumber = paramUrl.get("lesson")
+        paramUrl.set("mode", "target_vn_hiragana") //list/target
+        paramUrl.set("type", type)
+        paramUrl.set("lesson", lessonNumber)
+        window.location.search = paramUrl
+    })
+    document.querySelector("#type a:nth-child(5)").addEventListener("click", e=> {
+        e.preventDefault()
+        var paramUrl =new URLSearchParams(window.location.search)
+        var type = paramUrl.get("type") //vocabulary/grammar
+        var lessonNumber = paramUrl.get("lesson")
         paramUrl.set("mode", "write") //list/target
         paramUrl.set("type", type)
         paramUrl.set("lesson", lessonNumber)
@@ -129,7 +146,7 @@ function show(data) {
     layoutLessonElement.innerHTML = listElement
 }
 var answerKey =""
-function target(data) {
+function target(data, translateType = TRANSLATE_TYPE_HIRAGANA_VN) {
     var layoutLessonElement = document.getElementById("layout_lesson")
     
     layoutLessonElement.innerHTML = `
@@ -160,9 +177,13 @@ function target(data) {
         </div>
     </div>
     `
-
-    document.getElementById("trigger").addEventListener("click", ()=> getWord(data))
-    document.getElementById("continue").addEventListener("click", ()=> getWord(data))
+    if (translateType === TRANSLATE_TYPE_HIRAGANA_VN) {
+        document.getElementById("trigger").addEventListener("click", ()=> getWord(data))
+        document.getElementById("continue").addEventListener("click", ()=> getWord(data))
+    } else if (translateType === TRANSLATE_TYPE_VN_HIRAGANA) {
+        document.getElementById("trigger").addEventListener("click", ()=> getWordVNToHiragana(data))
+        document.getElementById("continue").addEventListener("click", ()=> getWordVNToHiragana(data))
+    }
 }
 
 function write(data) {
@@ -199,6 +220,25 @@ function getWord(data) {
     }
 }
 
+function getWordVNToHiragana(data) {
+    document.getElementById("trigger-result").checked = false
+    var listKey = Object.keys(data)
+    answerKey = listKey[Math.floor(Math.random()*listKey.length)]
+    var listElement = `<button id="btn-skip">Skip</button><ul>`
+
+    for (let index = 0; index < listKey.length; index++) {
+        listElement += `<li target-value="${listKey[index]}" class="check-answer">${listKey[index]}</li>`
+    }
+    listElement += "</ul>"
+    document.getElementById("show-target").innerHTML = data[answerKey]["mean_vn"].trim()
+    document.getElementById("list").innerHTML = listElement
+    document.getElementById("btn-skip").addEventListener("click", skip)
+    var tmpElement = document.getElementsByClassName("check-answer")
+    for (let index = 0; index < tmpElement.length; index++) {
+        tmpElement[index].addEventListener("click", checkAnswer)
+    }
+}
+
 function getWriteWord(data) {
     var listKey = Object.keys(data)
     answerKey = listKey[Math.floor(Math.random()*listKey.length)]
@@ -218,7 +258,7 @@ function getWriteWord(data) {
 
 function checkAnswer(e) {
     var choice = e.target.getAttribute("target-value")
-    
+    console.log(answerKey)
     if (choice != answerKey) {
         alertSound(false)
         setPoint(false)
@@ -240,6 +280,7 @@ function alertSound(isCorrect) {
 function skip() {
     alertSound(false)
     showAnswer(answerKey, Data[answerKey])
+    setPoint(false)
 }
 
 function showAnswer(answerKey, info) {

@@ -4,6 +4,7 @@
         "mean_vn": "Thức dậy",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ねます": {
@@ -11,6 +12,7 @@
         "mean_vn": "Ngủ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "はたらきます": {
@@ -18,6 +20,7 @@
         "mean_vn": "Làm việc",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "やすみます": {
@@ -25,6 +28,7 @@
         "mean_vn": "Nghỉ giải lao",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "べんきょします": {
@@ -32,6 +36,7 @@
         "mean_vn": "Học",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "おわにます": {
@@ -39,6 +44,7 @@
         "mean_vn": "Kết thúc",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "デパート": {
@@ -46,6 +52,7 @@
         "mean_vn": "Trung tâm thương mại",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "銀行": {
@@ -53,6 +60,7 @@
         "mean_vn": "Ngân hàng",
         "hiragana": "ぎんこう",
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ゆうびんきょく": {
@@ -60,6 +68,7 @@
         "mean_vn": "Bưu điện",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "としょかん": {
@@ -67,6 +76,7 @@
         "mean_vn": "Thư viện",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "びじゅつかん": {
@@ -74,6 +84,7 @@
         "mean_vn": "Bảo tàng mĩ thuật",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "いま": {
@@ -81,6 +92,7 @@
         "mean_vn": "Bây giờ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "～じ": {
@@ -88,6 +100,7 @@
         "mean_vn": "~ giờ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "～ふん": {
@@ -95,6 +108,7 @@
         "mean_vn": "Phút",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "けん": {
@@ -102,6 +116,7 @@
         "mean_vn": "Rưỡi",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "なんじ": {
@@ -109,6 +124,7 @@
         "mean_vn": "Mấy giờ",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "なんぷん": {
@@ -116,6 +132,7 @@
         "mean_vn": "Mấy phút",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ごぜん": {
@@ -123,6 +140,7 @@
         "mean_vn": "AM, buổi sáng",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ごご": {
@@ -130,6 +148,7 @@
         "mean_vn": "PM, buổi chiều",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "あさ": {
@@ -137,6 +156,7 @@
         "mean_vn": "Buổi sáng",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ひる": {
@@ -144,6 +164,7 @@
         "mean_vn": "Buổi trưa",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ばん": {
@@ -151,6 +172,7 @@
         "mean_vn": "Buổi tối",
         "hiragana": ["よる"],
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "おととい": {
@@ -158,6 +180,7 @@
         "mean_vn": "Ngày hôm kia",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "きのう": {
@@ -165,6 +188,7 @@
         "mean_vn": "Ngày hôm qua",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "きょう": {
@@ -172,6 +196,7 @@
         "mean_vn": "Ngày hôm nay",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "あした": {
@@ -179,6 +204,7 @@
         "mean_vn": "Ngày mai",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "あさって": {
@@ -186,6 +212,7 @@
         "mean_vn": "Ngày mốt",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "けさ": {
@@ -193,6 +220,7 @@
         "mean_vn": "Sáng nay",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "こんばん": {
@@ -200,6 +228,7 @@
         "mean_vn": "Tối nay",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "やすみ": {
@@ -207,6 +236,7 @@
         "mean_vn": "Sự nghỉ ngơi",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ひるやすみ": {
@@ -214,6 +244,7 @@
         "mean_vn": "Sự nghỉ trưa",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "まいあさ": {
@@ -221,6 +252,7 @@
         "mean_vn": "Mỗi sáng",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "まいばん": {
@@ -228,6 +260,7 @@
         "mean_vn": "Mỗi tối",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "まいにち": {
@@ -235,6 +268,7 @@
         "mean_vn": "Mỗi ngày",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "げつよび": {
@@ -242,6 +276,7 @@
         "mean_vn": "Thứ 2",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "かよび": {
@@ -249,6 +284,7 @@
         "mean_vn": "Thứ 3",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "すいようび": {
@@ -256,6 +292,7 @@
         "mean_vn": "Thứ 4",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "もくよび": {
@@ -263,6 +300,7 @@
         "mean_vn": "Thứ 5",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "きにょうび": {
@@ -270,6 +308,7 @@
         "mean_vn": "Thứ 6",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "どようび": {
@@ -277,6 +316,7 @@
         "mean_vn": "Thứ 7",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "にちようび": {
@@ -284,6 +324,7 @@
         "mean_vn": "Chủ nhật",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "なにょび": {
@@ -291,6 +332,7 @@
         "mean_vn": "Thứ mấy",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ばんごう": {
@@ -298,6 +340,7 @@
         "mean_vn": "Số hiệu",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "でんわばんごう": {
@@ -305,6 +348,7 @@
         "mean_vn": "Số điện thoại",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "なんばん": {
@@ -312,6 +356,7 @@
         "mean_vn": "Số mấy",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "～から": {
@@ -319,6 +364,7 @@
         "mean_vn": "Từ ...",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "～まで": {
@@ -326,6 +372,7 @@
         "mean_vn": "Đến ...",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "～と": {
@@ -333,6 +380,7 @@
         "mean_vn": "và ...",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "そちら": {
@@ -340,6 +388,7 @@
         "mean_vn": "Hướng đó, bên đó, nơi đó (Chỉ đầu dây bên kia khi nói chuyện điện thoại)",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "たいへんですね": {
@@ -347,6 +396,7 @@
         "mean_vn": "Bạn vất vả quá",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "ええと": {
@@ -354,6 +404,7 @@
         "mean_vn": "À ...",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "おねがいします": {
@@ -361,6 +412,7 @@
         "mean_vn": "Làm ơn xin giúp đỡ (Nhờ vả, yêu cầu giúp đỡ)",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "かしこまりました": {
@@ -368,6 +420,7 @@
         "mean_vn": "Xin tuân lệnh",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "おといあわせのばんごう": {
@@ -375,6 +428,7 @@
         "mean_vn": "Số điện thoại giao dịch",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     },
     "どうもありがとございました": {
@@ -382,6 +436,7 @@
         "mean_vn": "Cảm ơn cho cuộc giao dịch",
         "hiragana": null,
         "katakana": null,
+        "kanji": null,
         "example":""
     }
 }

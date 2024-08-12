@@ -1,0 +1,386 @@
+{
+    "たべます": {
+        "type": "verb",
+        "mean_vn": "Ăn",
+        "hiragana": "たべます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "のみます": {
+        "type": "verb",
+        "mean_vn": "Uống",
+        "hiragana": "のみます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すいます": {
+        "type": "verb",
+        "mean_vn": "Hút, hít",
+        "hiragana": "すいます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "みます": {
+        "type": "verb",
+        "mean_vn": "Xem, nhìn",
+        "hiragana": "みます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ききます": {
+        "type": "verb",
+        "mean_vn": "Nghe",
+        "hiragana": "ききます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "よみます": {
+        "type": "verb",
+        "mean_vn": "Đọc",
+        "hiragana": "よみます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かきます": {
+        "type": "verb",
+        "mean_vn": "Viết/vẽ",
+        "hiragana": "かきます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かいます": {
+        "type": "verb",
+        "mean_vn": "Mua",
+        "hiragana": "かいます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "とります": {
+        "type": "verb",
+        "mean_vn": "Chụp hình",
+        "hiragana": "とります",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "します": {
+        "type": "verb",
+        "mean_vn": "Làm (hành động)",
+        "hiragana": "します",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あいます": {
+        "type": "verb",
+        "mean_vn": "Gặp gỡ",
+        "hiragana": "あいます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ごはん": {
+        "type": "verb",
+        "mean_vn": "Cơm/bữa ăn",
+        "hiragana": "ごはん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あさごはん": {
+        "type": "verb",
+        "mean_vn": "Bữa ăn sáng",
+        "hiragana": "あさごはん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ひるごはん": {
+        "type": "verb",
+        "mean_vn": "Bữa ăn trưa",
+        "hiragana": "ひるごはん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ばんごはん": {
+        "type": "verb",
+        "mean_vn": "Bữa ăn tối",
+        "hiragana": "ばんごはん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "パン": {
+        "type": "verb",
+        "mean_vn": "Bánh mì",
+        "hiragana": null,
+        "katakana": "パン",
+        "kanji": null,
+        "example":""
+    },
+    "たまご": {
+        "type": "verb",
+        "mean_vn": "Trứng",
+        "hiragana": "たまご",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "にく": {
+        "type": "verb",
+        "mean_vn": "Thịt",
+        "hiragana": "にく",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "さかな": {
+        "type": "verb",
+        "mean_vn": "Cá",
+        "hiragana": "さかな",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "やさい": {
+        "type": "verb",
+        "mean_vn": "Rau củ",
+        "hiragana": "やさい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "くだもの": {
+        "type": "verb",
+        "mean_vn": "Trái cây",
+        "hiragana": "くだもの",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "みず": {
+        "type": "verb",
+        "mean_vn": "Nước",
+        "hiragana": "みず",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おちゃ": {
+        "type": "verb",
+        "mean_vn": "Trà",
+        "hiragana": "おちゃ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "こうちゃ": {
+        "type": "verb",
+        "mean_vn": "Hồng trà",
+        "hiragana": "こうちゃ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ぎゅうにゅう": {
+        "type": "verb",
+        "mean_vn": "Sữa tươi / Sữa không đường",
+        "hiragana": "ぎゅうにゅう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ミルク": {
+        "type": "verb",
+        "mean_vn": "Sữa có đường",
+        "hiragana": "ミルク",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ジュース": {
+        "type": "verb",
+        "mean_vn": "Nước ép hoa quả",
+        "hiragana": "ジュース",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ビール": {
+        "type": "verb",
+        "mean_vn": "Bia",
+        "hiragana": "ビール",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おさけ": {
+        "type": "verb",
+        "mean_vn": "Nước uống có cồn / rượu sa kê",
+        "hiragana": "おさけ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ビデオ": {
+        "type": "verb",
+        "mean_vn": "Băng video",
+        "hiragana": "ビデオ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ウイスキ": {
+        "type": "verb",
+        "mean_vn": "Rượu whisky",
+        "hiragana": "ウイスキ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "えいが": {
+        "type": "verb",
+        "mean_vn": "Phim màn ảnh",
+        "hiragana": "えいが",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "てがみ": {
+        "type": "verb",
+        "mean_vn": "Bức thư",
+        "hiragana": "てがみ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "レポート": {
+        "type": "verb",
+        "mean_vn": "Bản báo cáo",
+        "hiragana": "レポート",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しゃしん": {
+        "type": "verb",
+        "mean_vn": "Tấm hình",
+        "hiragana": "しゃしん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "みせ": {
+        "type": "verb",
+        "mean_vn": "Cửa hàng",
+        "hiragana": "みせ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "レストラン": {
+        "type": "verb",
+        "mean_vn": "Nhà hàng",
+        "hiragana": "レストラン",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "にわ": {
+        "type": "verb",
+        "mean_vn": "Cái sân / sân vườn",
+        "hiragana": "にわ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しゅくだい": {
+        "type": "verb",
+        "mean_vn": "Bài tập về nhà",
+        "hiragana": "しゅくだい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "テニス": {
+        "type": "verb",
+        "mean_vn": "Tennis",
+        "hiragana": "テニス",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "サッカ": {
+        "type": "verb",
+        "mean_vn": "Bóng đá",
+        "hiragana": "サッカ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おはなみ": {
+        "type": "noun",
+        "mean_vn": "Sự ngắm hoa anh đào",
+        "hiragana": "おはなみ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "なに": {
+        "type": "verb",
+        "mean_vn": "Cái gì?",
+        "hiragana": "なに",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いっしょに": {
+        "type": "verb",
+        "mean_vn": "Cùng nhau",
+        "hiragana": "いっしょに",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ちょっと": {
+        "type": "verb",
+        "mean_vn": "Một chút",
+        "hiragana": "ちょっと",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いつも": {
+        "type": "verb",
+        "mean_vn": "Luôn luôn",
+        "hiragana": "いつも",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ときどき": {
+        "type": "verb",
+        "mean_vn": "Thỉnh thoảng",
+        "hiragana": "ときどき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "それから": {
+        "type": "verb",
+        "mean_vn": "Sau đó",
+        "hiragana": "それから",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    }
+}

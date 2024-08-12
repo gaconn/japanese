@@ -1,0 +1,86 @@
+{
+    "分": {
+        "type": "noun",
+        "mean_vn": "Phân: phút",
+        "hiragana": ["ふん"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "時": {
+        "type": "noun",
+        "mean_vn": "Thời: Thời giờ",
+        "hiragana": ["と", "じ"],
+        "katakana": "",
+        "example":"四時"
+    },
+    "今": {
+        "type": "noun",
+        "mean_vn": "Kim: bây giờ",
+        "hiragana": ["いま"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "朝": {
+        "type": "noun",
+        "mean_vn": "Triêu: Buổi sáng",
+        "hiragana": ["あさ"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "昼": {
+        "type": "noun",
+        "mean_vn": "Trú: Buổi Trưa",
+        "hiragana": ["ひる"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "晩": {
+        "type": "noun",
+        "mean_vn": "Văn: Buổi tối",
+        "hiragana": ["ばん"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "夜": {
+        "type": "noun",
+        "mean_vn": "Dạ: Đêm tối",
+        "hiragana": ["よる"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "毎": {
+        "type": "noun",
+        "mean_vn": "Mỗi: Mỗi",
+        "hiragana": ["まい"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "曜": {
+        "type": "noun",
+        "mean_vn": "Diêu: Tên gọi 7 vì sao",
+        "hiragana": ["よう"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "午": {
+        "type": "noun",
+        "mean_vn": "Ngọ: Giờ ngọ, tuổi ngọ",
+        "hiragana": ["ご"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "前": {
+        "type": "noun",
+        "mean_vn": "Tiền: Trước",
+        "hiragana": ["ぜん"],
+        "katakana": "",
+        "example":"一分, "
+    },
+    "後": {
+        "type": "noun",
+        "mean_vn": "Hậu: Sau",
+        "hiragana": ["ご"],
+        "katakana": "",
+        "example":"一分, "
+    }
+}

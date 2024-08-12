@@ -1,0 +1,370 @@
+{
+    "きります": {
+        "type": "verb",
+        "mean_vn": "Cắt",
+        "hiragana": "きります",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おきります": {
+        "type": "verb",
+        "mean_vn": "Gửi",
+        "hiragana": "おきります",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あげます": {
+        "type": "verb",
+        "mean_vn": "Cho/tặng",
+        "hiragana": "あげます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "もらいます": {
+        "type": "verb",
+        "mean_vn": "Nhận được",
+        "hiragana": "もらいます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かします": {
+        "type": "verb",
+        "mean_vn": "Cho mượn",
+        "hiragana": "かします",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かります": {
+        "type": "verb",
+        "mean_vn": "Mượn",
+        "hiragana": "かります",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おしえます": {
+        "type": "verb",
+        "mean_vn": "Chỉ dạy",
+        "hiragana": "おしえます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ならいます": {
+        "type": "verb",
+        "mean_vn": "Được chỉ dạy",
+        "hiragana": "ならいます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かけます": {
+        "type": "verb",
+        "mean_vn": "Ăn",
+        "hiragana": "かけます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "でんわをかけます": {
+        "type": "verb",
+        "mean_vn": "Gọi điện thoại",
+        "hiragana": "でんわをかけます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "て": {
+        "type": "verb",
+        "mean_vn": "Tay",
+        "hiragana": "て",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あし": {
+        "type": "verb",
+        "mean_vn": "Chân",
+        "hiragana": "あし",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "スプーン": {
+        "type": "verb",
+        "mean_vn": "Cái thìa",
+        "hiragana": "スプーン",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ナイフ": {
+        "type": "verb",
+        "mean_vn": "Con dao",
+        "hiragana": "ナイフ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "フォーク": {
+        "type": "verb",
+        "mean_vn": "Cái nĩa",
+        "hiragana": "フォーク",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "はさみ": {
+        "type": "verb",
+        "mean_vn": "Cây kéo",
+        "hiragana": "はさみ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ファクス": {
+        "type": "verb",
+        "mean_vn": "Máy fax",
+        "hiragana": "ファクス",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ワープロ": {
+        "type": "verb",
+        "mean_vn": "Máy đánh chữ điện tử",
+        "hiragana": "ワープロ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "パソコン": {
+        "type": "verb",
+        "mean_vn": "Máy tính cá nhân",
+        "hiragana": "パソコン",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "パンチ": {
+        "type": "verb",
+        "mean_vn": "Đồ bấm kim",
+        "hiragana": "パンチ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "セロテープ": {
+        "type": "verb",
+        "mean_vn": "Băng keo",
+        "hiragana": "セロテープ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "けしごむ": {
+        "type": "verb",
+        "mean_vn": "Cục tẩy",
+        "hiragana": "けしごむ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かみ": {
+        "type": "verb",
+        "mean_vn": "Giấy",
+        "hiragana": "かみ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "はな": {
+        "type": "verb",
+        "mean_vn": "Hoa",
+        "hiragana": "はな",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "シャツ": {
+        "type": "verb",
+        "mean_vn": "Áo sơ mi",
+        "hiragana": "シャツ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "プレゼント": {
+        "type": "verb",
+        "mean_vn": "Quà tặng",
+        "hiragana": "プレゼント",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "にもつ": {
+        "type": "verb",
+        "mean_vn": "Hành lý / kiện hàng",
+        "hiragana": "にもつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おかね": {
+        "type": "verb",
+        "mean_vn": "Tiền",
+        "hiragana": "おかね",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "きっぷ": {
+        "type": "verb",
+        "mean_vn": "Cái vé",
+        "hiragana": "きっぷ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "クリスマス": {
+        "type": "verb",
+        "mean_vn": "Lễ noel",
+        "hiragana": "クリスマス",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ちち": {
+        "type": "verb",
+        "mean_vn": "Cha",
+        "hiragana": "ちち",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おとうさん": {
+        "type": "verb",
+        "mean_vn": "Tiếng xưng hô gọi bố",
+        "hiragana": "おとうさん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "はは": {
+        "type": "verb",
+        "mean_vn": "Mẹ",
+        "hiragana": "はは",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おかあさん": {
+        "type": "verb",
+        "mean_vn": "Tiếng xưng hô gọi mẹ",
+        "hiragana": "おかあさん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "もう ～": {
+        "type": "verb",
+        "mean_vn": "Rồi",
+        "hiragana": "もう ～",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "まだ　～": {
+        "type": "verb",
+        "mean_vn": "Chưa",
+        "hiragana": "まだ　～",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "これから": {
+        "type": "verb",
+        "mean_vn": "Kể từ bây giờ",
+        "hiragana": "これから",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すてきですね": {
+        "type": "verb",
+        "mean_vn": "Tuyệt vời nhỉ",
+        "hiragana": "すてきですね",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ごめんください": {
+        "type": "verb",
+        "mean_vn": "Xin lỗi có ai ở nhà không?",
+        "hiragana": "ごめんください",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いらしゃい": {
+        "type": "verb",
+        "mean_vn": "Chào bạn đến nhà tôi chơi",
+        "hiragana": "いらしゃい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どうぞ、おあがりください": {
+        "type": "verb",
+        "mean_vn": "Mời bạn vào nhà tôi chơi",
+        "hiragana": "どうぞ、おあがりください",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しつれえします": {
+        "type": "verb",
+        "mean_vn": "Xin thất lễ",
+        "hiragana": "しつれえします",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "～は、いかがですか": {
+        "type": "verb",
+        "mean_vn": "Bạn dùng ~ nhé",
+        "hiragana": "～は、いかがですか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いただきます": {
+        "type": "verb",
+        "mean_vn": "Tôi xin nhận",
+        "hiragana": "いただきます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "りょこう": {
+        "type": "verb",
+        "mean_vn": "Chuyến du lịch",
+        "hiragana": "りょこう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おみやげ": {
+        "type": "verb",
+        "mean_vn": "Quà đặc sản",
+        "hiragana": "おみやげ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    }    
+}

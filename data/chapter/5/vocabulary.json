@@ -1,0 +1,458 @@
+{
+    "いきます": {
+        "type": "verb",
+        "mean_vn": "Đi",
+        "hiragana": "いきます",
+        "katakana": null,
+        "kanji": "行きます",
+        "example":""
+    },
+    "きます": {
+        "type": "verb",
+        "mean_vn": "Đến",
+        "hiragana": "きます",
+        "katakana": null,
+        "kanji": "来ます",
+        "example":""
+    },
+    "かえります": {
+        "type": "verb",
+        "mean_vn": "Trở lại",
+        "hiragana": "かえります",
+        "katakana": null,
+        "kanji": "帰ります",
+        "example":""
+    },
+    "がっこう": {
+        "type": "noun",
+        "mean_vn": "Trường học",
+        "hiragana": "がっこう",
+        "katakana": null,
+        "kanji": "学校",
+        "example":""
+    },
+    "スーパー": {
+        "type": "noun",
+        "mean_vn": "Siêu thị",
+        "hiragana": null,
+        "katakana": "スーパー",
+        "kanji": null,
+        "example":""
+    },
+    "えき": {
+        "type": "noun",
+        "mean_vn": "Nhà ga",
+        "hiragana": "えき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ひこうき": {
+        "type": "noun",
+        "mean_vn": "Máy bay",
+        "hiragana": "ひこうき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ふね": {
+        "type": "noun",
+        "mean_vn": "Thuyền",
+        "hiragana": "ふね",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "でんしゃ": {
+        "type": "noun",
+        "mean_vn": "Tàu điện",
+        "hiragana": "でんしゃ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ちかてつ": {
+        "type": "noun",
+        "mean_vn": "Xe điện ngầm",
+        "hiragana": "ちかてつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しんかんせん": {
+        "type": "noun",
+        "mean_vn": "Tàu shinkansen",
+        "hiragana": "しんかんせん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "バス": {
+        "type": "noun",
+        "mean_vn": "Xe buýt",
+        "hiragana": null,
+        "katakana": "バス",
+        "kanji": null,
+        "example":""
+    },
+    "タクシー": {
+        "type": "noun",
+        "mean_vn": "Tắc xi",
+        "hiragana": "タクシー",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "じてんしゃ": {
+        "type": "noun",
+        "mean_vn": "Xe đạp",
+        "hiragana": "じてんしゃ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "バイク": {
+        "type": "noun",
+        "mean_vn": "Xe gắn máy",
+        "hiragana": "バイク",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あるいて": {
+        "type": "verb",
+        "mean_vn": "Đi bộ",
+        "hiragana": "あるいて",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ひと": {
+        "type": "noun",
+        "mean_vn": "Người",
+        "hiragana": "ひと",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ともだち": {
+        "type": "noun",
+        "mean_vn": "Bạn bè",
+        "hiragana": "ともだち",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かれ": {
+        "type": "noun",
+        "mean_vn": "Anh ấy, bạn trai",
+        "hiragana": "かれ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かのじょ": {
+        "type": "noun",
+        "mean_vn": "Cô ấy, bạn gái",
+        "hiragana": "かのじょ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "こいびと": {
+        "type": "noun",
+        "mean_vn": "Người yêu",
+        "hiragana": "こいびと",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かぞく": {
+        "type": "noun",
+        "mean_vn": "Gia đình",
+        "hiragana": "かぞく",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ひとりで": {
+        "type": "noun",
+        "mean_vn": "Một mình",
+        "hiragana": "ひとりで",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "せんしゅう": {
+        "type": "noun",
+        "mean_vn": "Tuần trước",
+        "hiragana": "せんしゅう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "こんしゅう": {
+        "type": "noun",
+        "mean_vn": "Tuần này",
+        "hiragana": "こんしゅう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "らいしゅう": {
+        "type": "noun",
+        "mean_vn": "Tuần sau",
+        "hiragana": "らいしゅう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "せんげつ": {
+        "type": "noun",
+        "mean_vn": "Tháng trước",
+        "hiragana": "せんげつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "こんげつ": {
+        "type": "noun",
+        "mean_vn": "Tháng này",
+        "hiragana": "こんげつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "らいげつ": {
+        "type": "noun",
+        "mean_vn": "Tháng sau",
+        "hiragana": "らいげつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "きょねん": {
+        "type": "noun",
+        "mean_vn": "Năm trước",
+        "hiragana": "きょねん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ことし": {
+        "type": "noun",
+        "mean_vn": "Năm nay",
+        "hiragana": "ことし",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "らいねん": {
+        "type": "noun",
+        "mean_vn": "Năm sau",
+        "hiragana": "らいねん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "～がつ": {
+        "type": "noun",
+        "mean_vn": "~ Tháng",
+        "hiragana": "～がつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "なんがつ?": {
+        "type": "pronoun",
+        "mean_vn": "Tháng mấy?",
+        "hiragana": "なんがつ?",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ついたち": {
+        "type": "noun",
+        "mean_vn": "Ngày 1",
+        "hiragana": "ついたち",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ふつか": {
+        "type": "noun",
+        "mean_vn": "Ngày 2",
+        "hiragana": "ふつか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "みっか": {
+        "type": "noun",
+        "mean_vn": "Ngày 3",
+        "hiragana": "みっか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "よっか": {
+        "type": "noun",
+        "mean_vn": "Ngày 4",
+        "hiragana": "よっか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いつか": {
+        "type": "noun",
+        "mean_vn": "Ngày 5",
+        "hiragana": "いつか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "むいか": {
+        "type": "noun",
+        "mean_vn": "Ngày 6",
+        "hiragana": "むいか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "なのか": {
+        "type": "noun",
+        "mean_vn": "Ngày 7",
+        "hiragana": "なのか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ようか": {
+        "type": "noun",
+        "mean_vn": "Ngày 8",
+        "hiragana": "ようか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ここのか": {
+        "type": "noun",
+        "mean_vn": "Ngày 9",
+        "hiragana": "ここのか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "とおか": {
+        "type": "noun",
+        "mean_vn": "Ngày 10",
+        "hiragana": "とおか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "じゅうよっか": {
+        "type": "noun",
+        "mean_vn": "Ngày 14",
+        "hiragana": "じゅうよっか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "にじゅうよっか": {
+        "type": "noun",
+        "mean_vn": "Ngày 24",
+        "hiragana": "にじゅうよっか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "はつか": {
+        "type": "noun",
+        "mean_vn": "Ngày 20",
+        "hiragana": "はつか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "～にち": {
+        "type": "noun",
+        "mean_vn": "~ Ngày",
+        "hiragana": "～にち",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "なんにち?": {
+        "type": "pronoun",
+        "mean_vn": "Ngày mấy?",
+        "hiragana": "なんにち?",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いつ": {
+        "type": "pronoun",
+        "mean_vn": "Khi nào",
+        "hiragana": "いつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "たんじょうび": {
+        "type": "noun",
+        "mean_vn": "Ngày sinh nhật",
+        "hiragana": "たんじょうび",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ふつうでんしゃ": {
+        "type": "noun",
+        "mean_vn": "Xe điện thông thường",
+        "hiragana": "ふつうでんしゃ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "きゅうこうでんしゃ": {
+        "type": "noun",
+        "mean_vn": "Xe điện tốc hành",
+        "hiragana": "きゅうこうでんしゃ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "つぎの＋N": {
+        "type": "noun",
+        "mean_vn": "... Tiếp theo",
+        "hiragana": "つぎの＋N",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どいたしまして": {
+        "type": "pronoun",
+        "mean_vn": "Không có gì ạ (đáp lại câu cảm ơn)",
+        "hiragana": "どいたしまして",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "～ばんせん": {
+        "type": "noun",
+        "mean_vn": "Tuyến số ...",
+        "hiragana": "～ばんせん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "なんばんせん": {
+        "type": "pronoun",
+        "mean_vn": "Tuyến số mấy?",
+        "hiragana": "なんばんせん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "かんたん": {
+        "type": "adj",
+        "mean_vn": "Đơn giản",
+        "hiragana": "かんたん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ちかい": {
+        "type": "adj",
+        "mean_vn": "Gần",
+        "hiragana": "ちかい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "とおい": {
+        "type": "adj",
+        "mean_vn": "Xa",
+        "hiragana": "とおい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おそい": {
+        "type": "adj",
+        "mean_vn": "Muộn, trễ",
+        "hiragana": "おそい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おおい": {
+        "type": "adj",
+        "mean_vn": "Nhiều",
+        "hiragana": "おおい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すくない": {
+        "type": "adj",
+        "mean_vn": "Ít",
+        "hiragana": "すくない",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あたたかい": {
+        "type": "adj",
+        "mean_vn": "Ấm",
+        "hiragana": "あたたかい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すずしい": {
+        "type": "adj",
+        "mean_vn": "Mát",
+        "hiragana": "すずしい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あまい": {
+        "type": "adj",
+        "mean_vn": "Ngọt",
+        "hiragana": "あまい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "からい": {
+        "type": "adj",
+        "mean_vn": "Cay",
+        "hiragana": "からい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おもい": {
+        "type": "adj",
+        "mean_vn": "Nặng",
+        "hiragana": "おもい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "かるい": {
+        "type": "adj",
+        "mean_vn": "Nhẹ",
+        "hiragana": "かるい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "きせつ": {
+        "type": "noun",
+        "mean_vn": "Mùa",
+        "hiragana": "きせつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "はる": {
+        "type": "noun",
+        "mean_vn": "Mùa xuân",
+        "hiragana": "はる",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "なつ": {
+        "type": "noun",
+        "mean_vn": "Mùa hè",
+        "hiragana": "なつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あき": {
+        "type": "noun",
+        "mean_vn": "Mùa thu",
+        "hiragana": "あき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ふゆ": {
+        "type": "noun",
+        "mean_vn": "Mùa đông",
+        "hiragana": "ふゆ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "てんき": {
+        "type": "noun",
+        "mean_vn": "Thời tiết",
+        "hiragana": "てんき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あめ": {
+        "type": "noun",
+        "mean_vn": "Mưa",
+        "hiragana": "あめ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ゆき": {
+        "type": "noun",
+        "mean_vn": "Tuyết",
+        "hiragana": "ゆき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "くもり": {
+        "type": "noun",
+        "mean_vn": "Trời u ám, nhiều mây",
+        "hiragana": "くもり",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ホテル": {
+        "type": "noun",
+        "mean_vn": "Khách sạn",
+        "hiragana": null,
+        "katakana": "ホテル",
+        "kanji": null,
+        "example":""
+    },
+    "くうこう": {
+        "type": "noun",
+        "mean_vn": "Sân bay",
+        "hiragana": null,
+        "katakana": "くうこう",
+        "kanji": null,
+        "example":""
+    },
+    "うみ": {
+        "type": "noun",
+        "mean_vn": "Biển",
+        "hiragana": "うみ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "せかい": {
+        "type": "noun",
+        "mean_vn": "Thế giới",
+        "hiragana": "せかい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "パーティー": {
+        "type": "noun",
+        "mean_vn": "Buổi tiệc",
+        "hiragana": null,
+        "katakana": "パーティー",
+        "kanji": null,
+        "example":""
+    },
+    "おまつり": {
+        "type": "noun",
+        "mean_vn": "Lễ hội",
+        "hiragana": "おまつり",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しけん": {
+        "type": "noun",
+        "mean_vn": "Buổi kiểm tra, bài kiểm tra",
+        "hiragana": "しけん",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すきやき": {
+        "type": "noun",
+        "mean_vn": "Lẩu sukiyaki",
+        "hiragana": "すきやき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "さしみ": {
+        "type": "noun",
+        "mean_vn": "Món hải sản sống",
+        "hiragana": "さしみ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おすし": {
+        "type": "noun",
+        "mean_vn": "Món cơm cuộn - sushi",
+        "hiragana": "おすし",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "てんぷら": {
+        "type": "noun",
+        "mean_vn": "Món tôm lăn bột tempura",
+        "hiragana": "てんぷら",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いけはな": {
+        "type": "verb",
+        "mean_vn": "Cắm hoa",
+        "hiragana": "いけはな",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "もみじ": {
+        "type": "noun",
+        "mean_vn": "Cây lá phong",
+        "hiragana": "もみじ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どちら": {
+        "type": "noun",
+        "mean_vn": "Cái nào (1 trong 2)",
+        "hiragana": "どちら",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どちらも": {
+        "type": "noun",
+        "mean_vn": "Cả 2",
+        "hiragana": "どちらも",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ずっと": {
+        "type": "adj",
+        "mean_vn": "Hơn hẳn",
+        "hiragana": "ずっと",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "はじめて": {
+        "type": "noun",
+        "mean_vn": "Lần đầu tiên",
+        "hiragana": "はじめて",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ただいます": {
+        "type": "verb",
+        "mean_vn": "Lời đánh tiếng của người đi về",
+        "hiragana": "ただいます",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おかえりなさい": {
+        "type": "verb",
+        "mean_vn": "Đã về đấy à",
+        "hiragana": "おかえりなさい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すごいですね": {
+        "type": "adj",
+        "mean_vn": "Tuyệt vời quá",
+        "hiragana": "すごいですね",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "でも": {
+        "type": "adv",
+        "mean_vn": "Nhưng mà",
+        "hiragana": "でも",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "つかれはした": {
+        "type": "adj",
+        "mean_vn": "Tôi mệt rồi",
+        "hiragana": "つかれはした",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    }
+}

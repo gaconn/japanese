@@ -1,0 +1,418 @@
+{
+    "ハンサム": {
+        "type": "verb",
+        "mean_vn": "Đẹp trai",
+        "hiragana": "ハンサム",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "きれい": {
+        "type": "verb",
+        "mean_vn": "Đẹp gái, sạch đẹp",
+        "hiragana": "きれい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しずか": {
+        "type": "verb",
+        "mean_vn": "Yên tĩnh",
+        "hiragana": "しずか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "にぎやか": {
+        "type": "verb",
+        "mean_vn": "Náo nhiệt, Nhộn nhịp",
+        "hiragana": "にぎやか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ゆうめい": {
+        "type": "verb",
+        "mean_vn": "Nổi tiếng",
+        "hiragana": "ゆうめい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しんせつ": {
+        "type": "verb",
+        "mean_vn": "Tử tế, tốt bụng",
+        "hiragana": "しんせつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "げんき": {
+        "type": "verb",
+        "mean_vn": "Khỏe mạnh",
+        "hiragana": "げんき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ひま": {
+        "type": "verb",
+        "mean_vn": "Rảnh rỗi",
+        "hiragana": "ひま",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "べんり": {
+        "type": "verb",
+        "mean_vn": "Tiện lợi",
+        "hiragana": "べんり",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "すてき": {
+        "type": "verb",
+        "mean_vn": "Tuyệt vời",
+        "hiragana": "すてき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おおき": {
+        "type": "verb",
+        "mean_vn": "To lớn",
+        "hiragana": "おおき",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ちいさい": {
+        "type": "verb",
+        "mean_vn": "Nhỏ bé",
+        "hiragana": "ちいさい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あたらし": {
+        "type": "verb",
+        "mean_vn": "Mới",
+        "hiragana": "あたらし",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ふるい": {
+        "type": "verb",
+        "mean_vn": "Cũ",
+        "hiragana": "ふるい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いい": {
+        "type": "verb",
+        "mean_vn": "Tốt",
+        "hiragana": "いい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "よい": {
+        "type": "verb",
+        "mean_vn": "Được",
+        "hiragana": "よい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "わるい": {
+        "type": "verb",
+        "mean_vn": "Xấu",
+        "hiragana": "わるい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あつい": {
+        "type": "verb",
+        "mean_vn": "Nóng",
+        "hiragana": "あつい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "さむい": {
+        "type": "verb",
+        "mean_vn": "Lạnh",
+        "hiragana": "さむい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "つめたい": {
+        "type": "verb",
+        "mean_vn": "Lạnh, nguội lạnh",
+        "hiragana": "つめたい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "むずかしい": {
+        "type": "verb",
+        "mean_vn": "Khó khăn",
+        "hiragana": "むずかしい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "やさしい": {
+        "type": "verb",
+        "mean_vn": "Dễ, dễ tính",
+        "hiragana": "やさしい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "たかい": {
+        "type": "verb",
+        "mean_vn": "Cao, đắt",
+        "hiragana": "たかい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "やすい": {
+        "type": "verb",
+        "mean_vn": "Rẻ",
+        "hiragana": "やすい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "ひくい": {
+        "type": "verb",
+        "mean_vn": "Thấp",
+        "hiragana": "ひくい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おもしろい": {
+        "type": "verb",
+        "mean_vn": "Thú vị",
+        "hiragana": "おもしろい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おいしい": {
+        "type": "verb",
+        "mean_vn": "Ngon",
+        "hiragana": "おいしい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "いそがしい": {
+        "type": "verb",
+        "mean_vn": "Bận rộn",
+        "hiragana": "いそがしい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "たのしい": {
+        "type": "verb",
+        "mean_vn": "Vui (Cảnh vui)",
+        "hiragana": "たのしい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "しろい": {
+        "type": "verb",
+        "mean_vn": "Trắng",
+        "hiragana": "しろい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "くろい": {
+        "type": "verb",
+        "mean_vn": "Đen",
+        "hiragana": "くろい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あかい": {
+        "type": "verb",
+        "mean_vn": "Đỏ",
+        "hiragana": "あかい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あおい": {
+        "type": "verb",
+        "mean_vn": "Xanh",
+        "hiragana": "あおい",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "さくら": {
+        "type": "verb",
+        "mean_vn": "Hoa anh đào",
+        "hiragana": "さくら",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "やま": {
+        "type": "verb",
+        "mean_vn": "Núi",
+        "hiragana": "やま",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "まち": {
+        "type": "verb",
+        "mean_vn": "Thành phố, thị trấn",
+        "hiragana": "まち",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "たべもの": {
+        "type": "verb",
+        "mean_vn": "Thức ăn",
+        "hiragana": "たべもの",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "くるま": {
+        "type": "verb",
+        "mean_vn": "Xe hơi",
+        "hiragana": "くるま",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "こども": {
+        "type": "verb",
+        "mean_vn": "Nơi chốn",
+        "hiragana": "こども",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "りょう": {
+        "type": "verb",
+        "mean_vn": "Ký túc xá",
+        "hiragana": "りょう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "りょこう": {
+        "type": "verb",
+        "mean_vn": "Việc học",
+        "hiragana": "りょこう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "せいかつ": {
+        "type": "verb",
+        "mean_vn": "Đời sống sinh hoạt",
+        "hiragana": "せいかつ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おしごと": {
+        "type": "verb",
+        "mean_vn": "Việc làm, công việc",
+        "hiragana": "おしごと",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どう": {
+        "type": "verb",
+        "mean_vn": "Như thế nào?",
+        "hiragana": "どう",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どな　＋Ｎ": {
+        "type": "verb",
+        "mean_vn": "Như thế nào",
+        "hiragana": "どな　＋Ｎ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "どれ": {
+        "type": "verb",
+        "mean_vn": "Cái nào",
+        "hiragana": "どれ",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "とても": {
+        "type": "verb",
+        "mean_vn": "Rất là ...",
+        "hiragana": "とても",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "あまり": {
+        "type": "verb",
+        "mean_vn": "Không ... lắm",
+        "hiragana": "あまり",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "そして": {
+        "type": "verb",
+        "mean_vn": "Và (liên kết 2 câu)",
+        "hiragana": "そして",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "と": {
+        "type": "verb",
+        "mean_vn": "Và (liên kết 2 từ đơn)",
+        "hiragana": "と",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "～が、～": {
+        "type": "verb",
+        "mean_vn": "Tuy ~ nhưng ~",
+        "hiragana": "～が、～",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    },
+    "おげんきですか": {
+        "type": "verb",
+        "mean_vn": "Bạn khỏe không",
+        "hiragana": "おげんきですか",
+        "katakana": null,
+        "kanji": null,
+        "example":""
+    }
+}
